@@ -215,7 +215,7 @@ small, .help-text {
   width: 100%;
   margin-inline: auto;
   padding-inline: var(--space-5);
-  max-width: 640px;
+  max-width: 680px;
 }
 
 .page-layout {
@@ -224,7 +224,7 @@ small, .help-text {
 
 .tool-page {
   width: 100%;
-  max-width: 640px;
+  max-width: 680px;
   margin-inline: auto;
   padding: var(--space-6) var(--space-5);
 }
@@ -1190,7 +1190,7 @@ small, .help-text {
 }
 
 .footer-inner {
-  max-width: 640px;
+  max-width: 900px;
   margin-inline: auto;
 }
 
@@ -1221,7 +1221,7 @@ small, .help-text {
 }
 
 .footer__inner {
-  max-width: 640px;
+  max-width: 900px;
   margin-inline: auto;
 }
 
@@ -1618,10 +1618,12 @@ input[type="number"] {
 @media (min-width: 640px) {
   .container {
     padding-inline: var(--space-6);
+    max-width: 720px;
   }
 
   .tool-page {
     padding-inline: var(--space-6);
+    max-width: 720px;
   }
 
   .zone-dims {
@@ -1670,12 +1672,12 @@ input[type="number"] {
   }
 
   .container {
-    max-width: 640px;
+    max-width: 780px;
     padding-inline: var(--space-8);
   }
 
   .tool-page {
-    max-width: 640px;
+    max-width: 780px;
     padding-inline: var(--space-8);
   }
 
@@ -1694,7 +1696,7 @@ input[type="number"] {
   .header__nav {
     display: flex;
     align-items: center;
-    gap: var(--space-4);
+    gap: var(--space-3);
   }
 
   .header__nav a {
@@ -1704,6 +1706,7 @@ input[type="number"] {
     font-weight: 500;
     position: relative;
     padding-bottom: 2px;
+    white-space: nowrap;
   }
 
   .header__nav a:hover {
@@ -1762,13 +1765,13 @@ input[type="number"] {
 
 @media (min-width: 1024px) {
   .container {
-    max-width: 640px;
+    max-width: 900px;
     padding-inline: var(--space-8);
   }
 
   .tool-page {
-    max-width: 640px;
-    padding-inline: var(--space-8);
+    max-width: 900px;
+    padding-inline: var(--space-10);
   }
 
   .section-padding {
@@ -1777,11 +1780,15 @@ input[type="number"] {
 
   .page-layout {
     grid-template-columns: 240px 1fr;
-    max-width: 1100px;
+    max-width: 1200px;
   }
 
   .header {
     padding-inline: var(--space-8);
+  }
+
+  .header-inner.container {
+    max-width: 1140px;
   }
 
   .calendar-grid {
@@ -1798,21 +1805,33 @@ input[type="number"] {
 }
 
 @media (min-width: 1280px) {
-  .container { max-width: 640px; }
+  .container { max-width: 980px; }
 
-  .tool-page { max-width: 640px; }
+  .tool-page { max-width: 980px; }
+
+  .header-inner.container {
+    max-width: 1200px;
+  }
 }
 
 @media (min-width: 1536px) {
-  .tool-page { max-width: 640px; }
+  .tool-page { max-width: 1000px; }
+
+  .container { max-width: 1000px; }
 }
 
 @media (min-width: 1920px) {
-  .tool-page { max-width: 640px; }
+  .tool-page { max-width: 1100px; }
+
+  .container { max-width: 1100px; }
+
+  .header-inner.container {
+    max-width: 1300px;
+  }
 }
 
 @media (min-width: 2560px) {
-  .tool-page { max-width: 640px; padding-inline: var(--space-16); }
+  .tool-page { max-width: 1200px; padding-inline: var(--space-16); }
 
   body { font-size: clamp(16px, 1vw + 10px, 20px); }
 
@@ -1825,7 +1844,7 @@ input[type="number"] {
 
 @media (min-width: 3840px) {
   .tool-page {
-    max-width: 640px;
+    max-width: 1300px;
     padding-inline: var(--space-16);
   }
 
