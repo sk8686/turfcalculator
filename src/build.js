@@ -51,6 +51,7 @@ function replacePlaceholders(html, langData, lang, slug, templateSlug, allLangs)
   html = html.replace(/\{\{HEADER\}\}/g, partials.HEADER || '');
   html = html.replace(/\{\{FOOTER\}\}/g, partials.FOOTER || '');
   html = html.replace(/\{\{LANG\}\}/g, lang);
+  html = html.replace(/\{\{LANG_NAME\}\}/g, langData?.lang_name || lang);
   html = html.replace(/\{\{LANG_DIR\}\}/g, RTL_LANGUAGES.has(lang) ? 'rtl' : 'ltr');
 
   const displaySlug = slug === 'index' ? '' : slug + '.html';
