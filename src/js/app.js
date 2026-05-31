@@ -117,6 +117,7 @@ const TurfApp = (() => {
         if (lang) setLanguage(lang);
         dropdown.classList.remove('language-switcher__dropdown--open');
         toggle.setAttribute('aria-expanded', 'false');
+        window.location.href = link.href;
       });
     });
   }
