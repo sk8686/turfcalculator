@@ -58,7 +58,7 @@ html {
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
   scroll-behavior: smooth;
-  overflow-x: hidden;
+  overflow: visible;
 }
 
 body {
@@ -273,7 +273,7 @@ small, .help-text {
   height: var(--header-height);
   background: var(--bg-card);
   border-bottom: 1px solid var(--border);
-  overflow-x: hidden;
+  overflow: visible;
 }
 
 .header-inner {
