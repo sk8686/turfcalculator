@@ -1,0 +1,64 @@
+# Dependencies
+node_modules/
+
+# Build output (dist is needed for Cloudflare Pages, keep it)
+# dist/  <-- we WANT to commit this for Cloudflare Pages
+
+# Test & QA artifacts
+qa-screenshots/
+screenshots/
+*.png
+*.json
+!package.json
+!package-lock.json
+
+# Debug / one-off test scripts (root level)
+debug-*.js
+diagnose-*.js
+fix-*.js
+check-*.js
+add-*.js
+gen-*.js
+find-*.js
+round*.js
+logic-*.js
+m-deep-*.js
+m-diagnose-*.js
+m-verify-*.js
+deep-check-*.js
+manual-full-verify.js
+visual-full-verify.js
+verify-template-leaks.js
+final-v2.js
+final-verification.js
+production-audit.js
+comprehensive-test.py
+functional-test.py
+browser-test.py
+qa-*.js
+qa-commercial.js
+qa-diag.js
+qa-diag2.js
+qa-link-audit.js
+
+# Demo / temporary
+demo.html
+
+# Brainstorm tool state
+.superpowers/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env
+.env
+.env.local
+deploy.js
