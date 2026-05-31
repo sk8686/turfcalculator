@@ -1,0 +1,1217 @@
+{
+  "404": {
+    "h1": "Page Non Trouvée",
+    "message": "Vous cherchez une calculatrice ?",
+    "go_home": "Retour à l'Accueil"
+  },
+  "site": {
+    "title": "TurfCalculator",
+    "description": "Calculatrices gratuites de gazon et de pelouse pour les particuliers",
+    "tagline": "Calculatrices gratuites — sans inscription, sans tracas"
+  },
+  "nav": {
+    "home": "Accueil",
+    "sod_calculator": "Calculatrice de Gazon en Rouleaux",
+    "lawn_area_calculator": "Calculatrice de Surface",
+    "grass_type_guide": "Types de Gazon",
+    "grass_seed_calculator": "Calculatrice de Semences",
+    "fertilizer_calculator": "Calculatrice d'Engrais",
+    "lawn_water_calculator": "Calculatrice d'Arrosage",
+    "soil_calculator": "Calculatrice de Terre",
+    "area_converter": "Convertisseur de Surface",
+    "lawn_care_calendar": "Calendrier d'Entretien",
+    "about": "À Propos",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions",
+    "disclaimer": "Avertissement",
+    "cookies": "Politique de Cookies",
+    "language": "Langue"
+  },
+  "pages": {
+    "sod-calculator": "calculatrice-gazon-en-rouleaux",
+    "lawn-area-calculator": "calculatrice-surface-pelouse",
+    "grass-type-guide": "guide-types-de-gazon",
+    "grass-seed-calculator": "calculatrice-semences-de-gazon",
+    "fertilizer-calculator": "calculatrice-engrais-pelouse",
+    "lawn-water-calculator": "calculatrice-arrosage-pelouse",
+    "soil-calculator": "calculatrice-terre-vegetale",
+    "area-converter": "convertisseur-surface",
+    "lawn-care-calendar": "calendrier-entretien-pelouse",
+    "about": "a-propos",
+    "privacy-policy": "politique-de-confidentialite",
+    "terms": "conditions-d-utilisation",
+    "disclaimer": "avertissement",
+    "cookie-policy": "politique-de-cookies"
+  },
+  "common": {
+    "calculate": "Calculer",
+    "reset": "Réinitialiser",
+    "result": "Résultat",
+    "results": "Résultats",
+    "area": "Surface",
+    "length": "Longueur",
+    "width": "Largeur",
+    "diameter": "Diamètre",
+    "depth": "Profondeur",
+    "unit_ft": "pi",
+    "unit_m": "m",
+    "unit_in": "po",
+    "unit_cm": "cm",
+    "unit_sqft": "pi²",
+    "unit_sqm": "m²",
+    "unit_sqyd": "yd²",
+    "unit_ac": "acres",
+    "unit_ha": "hectares",
+    "grass_type": "Type de Gazon",
+    "includes_extra": "Inclut {percent}% supplémentaire pour les coupes et l'ajustement",
+    "based_on_area": "Basé sur une pelouse de {area} {unit}",
+    "need_different": "Besoin d'une forme ou d'une taille de rouleau différente ?",
+    "add_another_area": "+ Ajouter une autre zone",
+    "subtract_area": "− Soustraire une zone (piscine, maison, allée)",
+    "total": "Total",
+    "send_to_sod": "→ Calculer la quantité de gazon en rouleaux nécessaire",
+    "or": "ou",
+    "est_cost": "Coût estimé",
+    "tip": "Conseil",
+    "faq_title": "Questions Fréquentes",
+    "related_tools": "Outils Associés",
+    "share": "Partager",
+    "print": "Imprimer",
+    "copy": "Copier",
+    "copied": "Copié !",
+    "close": "Fermer",
+    "more_options": "Plus d'options",
+    "warm_season": "Saison Chaude",
+    "cool_season": "Saison Froide",
+    "full_sun": "Plein Soleil",
+    "partial_sun": "Mi-ombre",
+    "shade": "Ombre",
+    "new_lawn": "Nouvelle Pelouse",
+    "overseeding": "Sursemis",
+    "regular": "Classique",
+    "starter": "Démarrage",
+    "winter_prep": "Prép. Hivernale",
+    "unit_acres": "Acres",
+    "skip_to_content": "Aller au contenu",
+    "lbs": "lb",
+    "gallons": "gallons",
+    "minutes": "minutes",
+    "cu_yd": "m³",
+    "cu_ft": "pi³",
+    "cu_m": "m³",
+    "unit_l": "L"
+  },
+  "cookie_banner": {
+    "message": "Nous utilisons des cookies essentiels pour le fonctionnement de nos calculatrices et des cookies analytiques facultatifs pour améliorer le site.",
+    "essential_only": "Essentiels Uniquement",
+    "accept_all": "Tout Accepter",
+    "customize": "Personnaliser"
+  },
+  "footer": {
+    "copyright": "© 2026 TurfCalculator. Calculatrices de gazon gratuites pour tous.",
+    "disclaimer_short": "Les calculs sont des estimations. Vérifiez auprès de votre fournisseur local.",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "disclaimer": "Avertissement",
+    "cookies": "Cookies"
+  },
+  "home": {
+    "h1": "Calculatrices Gratuites de Gazon et Pelouse",
+    "meta_title": "TurfCalculator — Calculatrices Gratuites de Gazon et Pelouse",
+    "meta_description": "Calculatrices gratuites de gazon en rouleaux, semences, engrais, terre et arrosage pour votre pelouse. Résultats précis en 30 secondes. Sans inscription.",
+    "hero_title": "De combien de gazon avez-vous besoin ?",
+    "hero_subtitle": "Entrez les dimensions de votre pelouse et obtenez une réponse instantanée",
+    "full_sod_calculator": "→ Calculatrice Complète de Gazon",
+    "more_calculators": "Plus de Calculatrices",
+    "popular_questions": "Questions Populaires",
+    "question_1": "Combien de mètres carrés dans une palette de gazon ?",
+    "question_2": "Combien coûte un rouleau de gazon ?",
+    "question_3": "Meilleur type de gazon pour le plein soleil ?",
+    "trust_banner": "✅ Gratuit · 🔒 Sans inscription · 📊 Formules professionnelles",
+    "popular_question_1": "Combien de pieds carrés dans une palette de gazon ?",
+    "popular_question_2": "Combien coûte un rouleau de gazon ?",
+    "popular_question_3": "Meilleur type de gazon pour le plein soleil ?",
+    "popular_question_4": "Comment calculer la quantité de gazon dont j'ai besoin ?",
+    "popular_answer_1": "Une palette standard couvre 500 pi² (environ 450 rouleaux).",
+    "popular_answer_2": "Le gazon coûte 0,30 $–0,80 $ par pi² installé, ou 0,15 $–0,40 $ par pi² pour les matériaux uniquement.",
+    "popular_answer_3": "Le gazon Bermuda, Zoysia et Bahia prospèrent en plein soleil avec 6+ heures d'ensoleillement direct.",
+    "popular_answer_4": "Mesurez la longueur et la largeur de votre pelouse en pieds, multipliez-les pour obtenir la surface en pieds carrés, puis divisez par la taille du rouleau (généralement 10 pi²). Ajoutez 10 % pour les pertes."
+  },
+  "sod_calculator": {
+    "h1": "Calculatrice de Gazon en Rouleaux",
+    "meta_title": "Calculatrice de Gazon — Combien?",
+    "meta_description": "Calculez exactement combien de rouleaux et palettes de gazon vous avez besoin. Calculatrice gratuite avec facteur de perte. Fonctionne pour toute forme",
+    "length_label": "Longueur",
+    "length_help": "Mesurez le côté le plus long de votre pelouse",
+    "width_label": "Largeur",
+    "width_help": "Mesurez le côté le plus court de votre pelouse",
+    "shape_label": "Forme de la Pelouse",
+    "shape_rectangle": "Rectangle",
+    "shape_square": "Carré",
+    "shape_circle": "Cercle",
+    "shape_oval": "Ovale / Ellipse",
+    "shape_triangle": "Triangle",
+    "shape_trapezoid": "Trapèze",
+    "side_label": "Côté",
+    "major_axis_label": "Grand Axe",
+    "minor_axis_label": "Petit Axe",
+    "base_label": "Base",
+    "height_label": "Hauteur",
+    "parallel_a_label": "Côté Parallèle A",
+    "parallel_b_label": "Côté Parallèle B",
+    "waste_factor_label": "Facteur de Perte",
+    "waste_simple": "Simple (5%)",
+    "waste_normal": "Normal (10%)",
+    "waste_complex": "Complexe (15%)",
+    "waste_very_complex": "Très Complexe (20%)",
+    "roll_size_label": "Taille du Rouleau de Gazon",
+    "roll_standard": "Standard (61×152 cm = 1 m²)",
+    "roll_mini": "Mini (46×61 cm = 0,28 m²)",
+    "roll_large": "Grand (61×206 cm = 1,25 m²)",
+    "roll_custom": "Taille Personnalisée",
+    "custom_roll_width": "Largeur du Rouleau",
+    "custom_roll_length": "Longueur du Rouleau",
+    "results_title": "Vos Résultats",
+    "rolls_needed": "Rouleaux Nécessaires",
+    "pallets_needed": "Palettes Nécessaires",
+    "estimated_cost": "Coût Estimé",
+    "cost_range": "{low} – {high}",
+    "total_area": "Surface Totale (avec perte)",
+    "tip_extra": "Achetez 1 rouleau supplémentaire pour les réparations futures",
+    "how_to_h2": "Comment Calculer la Quantité de Gazon Nécessaire",
+    "how_to_step1": "Mesurez la longueur et la largeur de votre pelouse en mètres.",
+    "how_to_step2": "Multipliez longueur × largeur pour obtenir la surface en mètres carrés.",
+    "how_to_step3": "Ajoutez un facteur de perte (5–20%) pour les coupes, l'ajustement et les bords irréguliers.",
+    "how_to_step4": "Divisez la surface totale par la taille du rouleau de gazon.",
+    "how_to_step5": "Divisez les rouleaux par le nombre par palette pour estimer les palettes.",
+    "roll_sizes_h2": "Explication des Tailles de Rouleaux de Gazon",
+    "roll_sizes_table_header_size": "Taille de Rouleau",
+    "roll_sizes_table_header_coverage": "Couverture",
+    "roll_sizes_table_header_use": "Idéal Pour",
+    "faq": [
+      {
+        "q": "Combien de mètres carrés dans une palette de gazon ?",
+        "a": "Une palette standard couvre 40–55 m², contenant 40–55 rouleaux d'environ 1 m² chacun. Les petites palettes peuvent couvrir 35 m², tandis que les grandes peuvent couvrir jusqu'à 65 m². Vérifiez auprès de votre fournisseur local pour les tailles exactes."
+      },
+      {
+        "q": "Combien coûte un rouleau de gazon ?",
+        "a": "Le gazon coûte généralement 2–8 € par m². Les prix varient selon le type de gazon, la région et la quantité. Le Chiendent et la Zoysia tendent à être plus chers, tandis que la Fétuque est souvent plus abordable."
+      },
+      {
+        "q": "Dois-je acheter du gazon supplémentaire ? Combien ?",
+        "a": "Oui, ajoutez toujours 5–15% supplémentaire pour les pertes dues aux coupes autour des courbes, des arbres et des bordures. Utilisez 5% pour les rectangles simples, 10% pour les formes normales et 15–20% pour les pelouses complexes ou irrégulières avec de nombreux obstacles."
+      },
+      {
+        "q": "Qu'est-ce que le facteur de perte et pourquoi en ai-je besoin ?",
+        "a": "Le facteur de perte tient compte du gazon perdu lors de la coupe et de l'ajustement autour des courbes, des allées, des arbres et des bordures. Sans lui, vous risquez d'être à court et de devoir passer une deuxième commande — qui peut ne pas correspondre au premier lot en couleur ou en fraîcheur."
+      },
+      {
+        "q": "Combien de temps le gazon peut-il attendre avant l'installation ?",
+        "a": "Le gazon doit être installé dans les 24 heures suivant la livraison par temps frais, et dans les 12 heures par temps chaud. Le gazon qui attend trop longtemps va chauffer, jaunir et mourir. Préparez votre sol avant l'arrivée du gazon."
+      }
+    ],
+    "advanced_toggle": "Options avancées",
+    "advanced_label": "Avancé",
+    "shape_l_shape": "Forme L",
+    "radius_label": "Rayon",
+    "l_length_label": "Longueur principale",
+    "l_width_label": "Largeur principale",
+    "l_extension_label": "Longueur d'extension",
+    "l_ext_width_label": "Largeur d'extension"
+  },
+  "lawn_area_calculator": {
+    "h1": "Calculatrice de Surface de Pelouse",
+    "meta_title": "Calculatrice de Surface — Mesurez",
+    "meta_description": "Calculez la surface de votre pelouse en mètres carrés, pieds carrés, acres et plus. Compatible rectangles, cercles, triangles et jardins multi-zones",
+    "shape_label": "Forme de la Pelouse",
+    "shape_rectangle": "Rectangle",
+    "shape_square": "Carré",
+    "shape_circle": "Cercle",
+    "shape_oval": "Ovale / Ellipse",
+    "shape_triangle": "Triangle",
+    "shape_trapezoid": "Trapèze",
+    "length_label": "Longueur",
+    "width_label": "Largeur",
+    "side_label": "Côté",
+    "diameter_label": "Diamètre",
+    "major_axis_label": "Grand Axe",
+    "minor_axis_label": "Petit Axe",
+    "base_label": "Base",
+    "height_label": "Hauteur",
+    "parallel_a_label": "Côté Parallèle A",
+    "parallel_b_label": "Côté Parallèle B",
+    "zone_label": "Zone {number}",
+    "remove_zone": "Supprimer",
+    "your_lawn": "Votre Pelouse",
+    "total_area": "Surface Totale",
+    "conversions": "Conversions",
+    "subtract_zone_label": "Zone de Soustraction {number}",
+    "how_to_measure_h2": "Comment Mesurer Votre Jardin pour le Gazon",
+    "how_to_measure_p1": "Pour une pelouse rectangulaire simple, mesurez la longueur et la largeur avec un mètre ruban et multipliez-les.",
+    "how_to_measure_p2": "Pour les jardins irréguliers, divisez la surface en formes simples (rectangles, cercles, triangles), calculez chaque partie séparément, puis additionnez-les.",
+    "how_to_measure_p3": "Soustrayez les zones où vous n'avez pas besoin de gazon : piscines, allées, empreinte de la maison, terrasses et chemins.",
+    "common_sizes_h2": "Référence des Tailles Courantes de Pelouse",
+    "common_sizes_small": "Petite parcelle urbaine : ~280–465 m²",
+    "common_sizes_quarter": "Quart d'acre suburbain : ~1 012 m²",
+    "common_sizes_half": "Demi-acre : ~2 024 m²",
+    "common_sizes_acre": "1 acre : ~4 047 m²",
+    "faq": [
+      {
+        "q": "Comment mesurer une pelouse de forme irrégulière ?",
+        "a": "Divisez-la en formes simples — rectangles, cercles et triangles. Mesurez chaque section séparément, calculez la surface de chacune, puis additionnez-les toutes. Utilisez le bouton 'Ajouter une autre zone' pour saisir plusieurs zones."
+      },
+      {
+        "q": "Dois-je soustraire ma maison et mon allée de la surface ?",
+        "a": "Oui. Mesurez uniquement la surface où vous souhaitez réellement poser du gazon. Utilisez l'option 'Soustraire une zone' pour retirer l'empreinte de votre maison, l'allée, la terrasse, la piscine et toute autre zone non pelouse."
+      },
+      {
+        "q": "Quelle précision ma mesure doit-elle avoir ?",
+        "a": "Une précision de 5–10% est généralement suffisante. Les petites erreurs de mesure sont couvertes par le facteur de perte (gazon supplémentaire pour les coupes). Pour les projets très grands ou coûteux, envisagez un relevé professionnel."
+      },
+      {
+        "q": "Puis-je utiliser Google Maps pour mesurer ma pelouse ?",
+        "a": "Oui, Google Maps et les outils d'imagerie satellite peuvent vous donner une estimation approximative. Cependant, les vues aériennes peuvent ne pas montrer les pentes, les changements de dénivelé ou les détails d'aménagement paysager qui affectent la surface réelle de gazon nécessaire."
+      },
+      {
+        "q": "Et si ma pelouse est en pente ?",
+        "a": "Les pelouses en pente nécessitent plus de gazon que les mesures à plat le suggèrent car la surface réelle est plus grande. Pour les pentes modérées, ajoutez 5–10% supplémentaire. Pour les pentes raides, ajoutez 10–20% supplémentaire."
+      }
+    ],
+    "length_help": "Mesurez le côté le plus long de votre pelouse",
+    "width_help": "Mesurez le côté le plus court de votre pelouse",
+    "send_to_sod": "→ Calculer la quantité de gazon dont j'ai besoin",
+    "add_area": "+ Ajouter une autre zone",
+    "subtract_area": "− Soustraire une zone (piscine, maison, allée)"
+  },
+  "grass_type_guide": {
+    "h1": "Comparatif des Types de Gazon",
+    "meta_title": "Meilleurs Types de Gazon — Guide Complet de Comparaison",
+    "meta_description": "Comparez les types de gazon de saison chaude et froide côte à côte",
+    "warm_cool_toggle": "Type de Saison",
+    "warm_season_tab": "Saison Chaude",
+    "cool_season_tab": "Saison Froide",
+    "comparison_table_h2": "Tableau de Comparaison Détaillé",
+    "table_header_name": "Type de Gazon",
+    "table_header_season": "Saison",
+    "table_header_sun": "Ensoleillement",
+    "table_header_drought": "Tolérance à la Sécheresse",
+    "table_header_traffic": "Tolérance au Passage",
+    "table_header_maintenance": "Entretien",
+    "table_header_establish": "Établissement",
+    "maintenance_low": "Faible",
+    "maintenance_medium": "Moyen",
+    "maintenance_high": "Élevé",
+    "establish_slow": "Lent",
+    "establish_moderate": "Modéré",
+    "establish_fast": "Rapide",
+    "tolerance_1": "Très Faible",
+    "tolerance_2": "Faible",
+    "tolerance_3": "Modérée",
+    "tolerance_4": "Élevée",
+    "tolerance_5": "Très Élevée",
+    "pros_label": "Avantages",
+    "cons_label": "Inconvénients",
+    "best_for_label": "Idéal Pour",
+    "usda_zones_label": "Zones USDA",
+    "grass_types": {
+      "bermudagrass": {
+        "name": "Chiendent",
+        "description": "Gazon de saison chaude robuste et à propagation rapide qui prospère en plein soleil et résiste à un passage intensif. Le choix privilégié pour les terrains de sport et les jardins familiaux actifs sous les climats du sud.",
+        "pros": [
+          "Excellente tolérance à la chaleur et à la sécheresse",
+          "Résistant sous un passage piétonnier intensif",
+          "Propagation rapide et auto-réparation"
+        ],
+        "cons": [
+          "Entre en dormance (brunit) en hiver",
+          "Nécessite le plein soleil — difficile à l'ombre"
+        ],
+        "sun": "full_sun",
+        "tags": [
+          "warm_season",
+          "full_sun",
+          "high_traffic"
+        ],
+        "drought": "Très élevé",
+        "maintenance": "Élevé"
+      },
+      "zoysia": {
+        "name": "Zoysia",
+        "description": "Gazon de saison chaude dense comme un tapis avec une bonne tolérance au froid. Plus lent à s'établir mais forme une pelouse épaisse et résistante aux mauvaises herbes qui vaut l'attente.",
+        "pros": [
+          "Bonne tolérance au froid pour un gazon de saison chaude",
+          "Croissance dense qui étouffe les mauvaises herbes",
+          "Faibles besoins en eau une fois établi"
+        ],
+        "cons": [
+          "Lent à s'établir — peut prendre 2+ saisons",
+          "Produit un feutre épais nécessitant un démoussage"
+        ],
+        "sun": "partial_sun",
+        "tags": [
+          "warm_season",
+          "partial_sun",
+          "low_maintenance"
+        ],
+        "drought": "Élevé",
+        "maintenance": "Moyen"
+      },
+      "centipede": {
+        "name": "Herbe Mille-Pattes",
+        "description": "Gazon de saison chaude à faible entretien connu comme 'le gazon du paresseux'. Préfère les sols acides et nécessite moins d'engrais que la plupart des autres types.",
+        "pros": [
+          "Besoins d'entretien et de fertilisation très faibles",
+          "Tolère les conditions de sol acide",
+          "Tolérance modérée à l'ombre"
+        ],
+        "cons": [
+          "Lent à s'établir et à se propager",
+          "Faible tolérance au passage — pas pour les jardins actifs"
+        ],
+        "sun": "partial_sun",
+        "tags": [
+          "warm_season",
+          "partial_sun",
+          "low_maintenance"
+        ],
+        "drought": "Moyen",
+        "maintenance": "Faible"
+      },
+      "st_augustine": {
+        "name": "Stenotaphrum",
+        "description": "Gazon de saison chaude à texture grossière avec la meilleure tolérance à l'ombre parmi les gazons du sud. Populaire dans les zones côtières grâce à sa tolérance au sel.",
+        "pros": [
+          "Meilleure tolérance à l'ombre de tous les gazons de saison chaude",
+          "Tolérant au sel — idéal pour les zones côtières",
+          "Établissement rapide à partir de gazon en rouleaux ou de plugs"
+        ],
+        "cons": [
+          "Texture grossière pouvant ne pas convenir à tous les goûts",
+          "Susceptible aux punaises et aux maladies"
+        ],
+        "sun": "shade",
+        "tags": [
+          "warm_season",
+          "shade",
+          "coastal"
+        ],
+        "drought": "Moyen",
+        "maintenance": "Élevé"
+      },
+      "bahiagrass": {
+        "name": "Paspale",
+        "description": "Gazon de saison chaude robuste et résistant à la sécheresse pour le sud profond. Prospère dans les sols sableux et infertiles où d'autres gazons échouent. Port de croissance ouvert avec épis visibles.",
+        "pros": [
+          "Extrêmement tolérant à la sécheresse — survit avec les précipitations seules",
+          "Prospère dans les sols pauvres et sableux",
+          "Faibles besoins en engrais et entretien"
+        ],
+        "cons": [
+          "Port de croissance ouvert et grossier — aspect peu soigné",
+          "Produit des épis hauts nécessitant une tonte fréquente"
+        ],
+        "sun": "full_sun",
+        "tags": [
+          "warm_season",
+          "full_sun",
+          "low_maintenance"
+        ],
+        "drought": "Très élevé",
+        "maintenance": "Faible"
+      },
+      "kentucky_bluegrass": {
+        "name": "Pâturin des Prés",
+        "description": "Le gazon classique, luxuriant et vert foncé du nord des États-Unis. Se propage par rhizomes souterrains pour combler les zones dégarnies, créant une pelouse dense et magnifique.",
+        "pros": [
+          "Couleur vert foncé riche — l'aspect classique de la pelouse",
+          "Auto-réparation par rhizomes souterrains",
+          "Excellente rusticité au froid"
+        ],
+        "cons": [
+          "Entretien élevé — nécessite arrosage et fertilisation réguliers",
+          "Lent à germer depuis la graine (2–4 semaines)"
+        ],
+        "sun": "full_sun",
+        "tags": [
+          "cool_season",
+          "full_sun",
+          "high_maintenance"
+        ],
+        "drought": "Faible",
+        "maintenance": "Élevé"
+      },
+      "tall_fescue": {
+        "name": "Fétuque Élevée",
+        "description": "Gazon de saison froide adaptable aux racines profondes pour la résistance à la sécheresse. L'un des gazons les plus polyvalents, performant au soleil, à l'ombre et dans les climats de transition.",
+        "pros": [
+          "Système racinaire profond pour une excellente résistance à la sécheresse",
+          "Bonne tolérance à l'ombre pour un gazon de saison froide",
+          "Faible entretien comparé au Pâturin des Prés"
+        ],
+        "cons": [
+          "Ne se propage pas — les zones dégarnies nécessitent un sursemis",
+          "Peut former des touffes si mal entretenu"
+        ],
+        "sun": "partial_sun",
+        "tags": [
+          "cool_season",
+          "partial_sun",
+          "low_maintenance"
+        ],
+        "drought": "Élevé",
+        "maintenance": "Moyen"
+      },
+      "perennial_ryegrass": {
+        "name": "Ray-Grass Vivace",
+        "description": "Gazon de saison froide à germination rapide et texture fine. Souvent utilisé dans les mélanges de semences pour un établissement rapide et en sursemis des pelouses de saison chaude pour un vert hivernal.",
+        "pros": [
+          "Germe en seulement 5–7 jours — le plus rapide de tous les gazons",
+          "Texture fine et couleur verte riche",
+          "Excellente tolérance à l'usure pour les pelouses actives"
+        ],
+        "cons": [
+          "Moins rustique au froid que d'autres gazons de saison froide",
+          "De courte durée comme pelouse autonome — meilleur en mélanges"
+        ],
+        "sun": "full_sun",
+        "tags": [
+          "cool_season",
+          "full_sun",
+          "quick_establish"
+        ],
+        "drought": "Faible",
+        "maintenance": "Moyen"
+      },
+      "fine_fescue": {
+        "name": "Fétuque Fine",
+        "description": "Gazon de saison froide aux brins délicats qui excelle à l'ombre et dans les situations de faible entretien. Le plus tolérant à l'ombre de tous les gazons de pelouse courants.",
+        "pros": [
+          "Meilleure tolérance à l'ombre de tous les gazons de pelouse",
+          "Très faible entretien — nécessite peu d'eau ou d'engrais",
+          "Texture de brin fine et attrayante"
+        ],
+        "cons": [
+          "Faible tolérance au passage — facilement endommagé",
+          "Difficulté en étés chauds et humides"
+        ],
+        "sun": "shade",
+        "tags": [
+          "cool_season",
+          "shade",
+          "low_maintenance"
+        ],
+        "drought": "Moyen",
+        "maintenance": "Faible"
+      },
+      "sun_shade_mix": {
+        "name": "Mélange soleil/ombre",
+        "description": "Un mélange de Pâturin du Kentucky et de Fétuque fine qui s'adapte aux zones ensoleillées et ombragées.",
+        "pros": [
+          "S'adapte à la luminosité variable",
+          "Bon pour les jardins mixtes",
+          "Entretien moyen"
+        ],
+        "drought": "Moyen",
+        "maintenance": "Moyen",
+        "sun": "Soleil à ombre partielle"
+      }
+    },
+    "faq": [
+      {
+        "q": "Quelle est la différence entre le gazon de saison chaude et de saison froide ?",
+        "a": "Les gazons de saison chaude (Chiendent, Zoysia, Stenotaphrum) prospèrent sous les climats du sud avec des étés chauds et des hivers doux. Ils entrent en dormance et brunissent en hiver. Les gazons de saison froide (Pâturin des Prés, Fétuque, Ray-Grass) poussent mieux sous les climats du nord avec des hivers froids et des étés modérés. Ils restent verts toute l'année dans leurs zones de prédilection."
+      },
+      {
+        "q": "Quel type de gazon est le meilleur en plein soleil ?",
+        "a": "Pour les climats chauds, le Chiendent est le meilleur choix en plein soleil. Pour les climats froids, le Pâturin des Prés et le Ray-Grass Vivace sont les plus performants en plein soleil. La Fétuque Élevée est un bon choix polyvalent pour des conditions mixtes."
+      },
+      {
+        "q": "Quel gazon pousse le mieux à l'ombre ?",
+        "a": "La Fétuque Fine est le gazon de saison froide le plus tolérant à l'ombre. Pour les climats chauds, le Stenotaphrum est la meilleure option pour l'ombre. Aucun gazon ne prospère à l'ombre dense — si une zone reçoit moins de 3 heures de soleil direct, envisagez des couvre-sols ou du paillis."
+      },
+      {
+        "q": "Puis-je mélanger des gazons de saison chaude et froide ?",
+        "a": "Ce n'est généralement pas recommandé. Ils ont des saisons de croissance, des besoins en arrosage et des hauteurs de tonte différents. L'exception est le sursemis : vous pouvez sursemer une pelouse de saison chaude avec du Ray-Grass Vivace pour une couleur verte hivernale."
+      },
+      {
+        "q": "Quel gazon est le meilleur pour les zones à passage fréquent ?",
+        "a": "Le Chiendent est le gazon de saison chaude le plus résistant pour un passage intensif. Pour les pelouses de saison froide, le Ray-Grass Vivace et le Pâturin des Prés supportent bien le passage. La Fétuque Élevée est également un bon choix grâce à son système racinaire profond."
+      }
+    ],
+    "season_toggle_label": "Type de saison de gazon",
+    "cards_label": "Types de gazon"
+  },
+  "grass_seed_calculator": {
+    "h1": "Calculatrice de Semences de Gazon",
+    "meta_title": "Calculatrice de Semences — Combien?",
+    "meta_description": "Calculez la quantité de semences de gazon nécessaire pour votre pelouse. Calculatrice gratuite avec dosages pour tous les types de gazon",
+    "area_label": "Surface de la Pelouse",
+    "area_help": "Entrez la surface de votre pelouse en mètres carrés",
+    "grass_type_label": "Type de Gazon",
+    "project_type_label": "Type de Projet",
+    "project_new_lawn": "Nouvelle Pelouse",
+    "project_overseeding": "Sursemis",
+    "results_seed_needed": "Semences Nécessaires",
+    "results_bags": "Sacs Nécessaires",
+    "results_rate": "Dose d'Application",
+    "results_rate_value": "{rate} kg par 100 m²",
+    "seed_rate_note": "La dose indiquée est pour {project_type}. Le sursemis utilise environ la moitié de la dose d'une nouvelle pelouse.",
+    "tip_timing": "Meilleure période pour semer : début d'automne pour les gazons de saison froide, fin de printemps pour les gazons de saison chaude.",
+    "how_to_h2": "Comment Calculer les Quantités de Semences de Gazon",
+    "how_to_step1": "Mesurez la surface de votre pelouse en mètres carrés.",
+    "how_to_step2": "Sélectionnez votre type de gazon — chacun a une dose de semis recommandée différente.",
+    "how_to_step3": "Choisissez nouvelle pelouse ou sursemis — le sursemis nécessite environ la moitié des semences.",
+    "how_to_step4": "La calculatrice applique la dose par 100 m² à votre surface totale.",
+    "faq": [
+      {
+        "q": "Combien de semences de gazon par mètre carré ?",
+        "a": "Cela dépend du type de gazon. Le Pâturin des Prés nécessite environ 1–1,5 kg par 100 m² (nouvelle pelouse), tandis que la Fétuque Élevée nécessite 3–4 kg par 100 m². Les doses de sursemis sont environ la moitié des doses pour nouvelle pelouse."
+      },
+      {
+        "q": "Puis-je semer trop de semences de gazon ?",
+        "a": "Oui. Le sursemis excessif crée une concurrence pour l'eau, les nutriments et la lumière, produisant un gazon faible et chétif sujet aux maladies. Suivez les doses recommandées pour votre type de gazon."
+      },
+      {
+        "q": "Dois-je semer ou poser du gazon en rouleaux ?",
+        "a": "Le gazon en rouleaux vous donne une pelouse instantanée mais coûte 10–20 fois plus cher que les semences. Les semences prennent 4–8 semaines à s'établir mais sont beaucoup plus abordables. Les semences sont meilleures pour les grandes surfaces et les jardiniers patients ; le gazon en rouleaux est meilleur pour des résultats rapides et les pentes sujettes à l'érosion."
+      },
+      {
+        "q": "Quand est la meilleure période pour semer du gazon ?",
+        "a": "Gazons de saison froide : début d'automne (septembre–octobre) quand le sol est chaud et l'air frais. Gazons de saison chaude : fin de printemps (mai–juin) quand les températures du sol atteignent 18–21°C. Évitez de semer pendant la chaleur estivale."
+      },
+      {
+        "q": "Combien de temps les semences de gazon mettent-elles à germer ?",
+        "a": "Ray-Grass Vivace : 5–7 jours. Fétuque Élevée : 7–12 jours. Pâturin des Prés : 14–28 jours. Fétuque Fine : 7–14 jours. Gazons de saison chaude : 14–30 jours. Maintenez le sol constamment humide pendant la germination."
+      }
+    ],
+    "st_augustine": "Gazon de Saint-Augustin",
+    "sod_only_msg": "Généralement planté en gazon en rouleau — les graines ne sont pas couramment disponibles.",
+    "lb_bags": "Sacs lb"
+  },
+  "fertilizer_calculator": {
+    "h1": "Calculatrice d'Engrais",
+    "meta_title": "Calculatrice d'Engrais — Combien?",
+    "meta_description": "Calculez la quantité d'engrais à appliquer sur votre pelouse. Calculatrice gratuite pour engrais classique, de démarrage et hivernal. Sans inscription.",
+    "area_label": "Surface de la Pelouse",
+    "area_help": "Entrez la surface de votre pelouse en mètres carrés",
+    "fertilizer_type_label": "Type d'Engrais",
+    "type_regular": "Classique",
+    "type_starter": "Démarrage",
+    "type_winter": "Prép. Hivernale",
+    "type_regular_desc": "Pour les pelouses établies pendant la saison de croissance",
+    "type_starter_desc": "Pour les nouvelles semences ou gazon — plus de phosphore pour la croissance des racines",
+    "type_winter_desc": "Application automnale pour préparer le gazon à la dormance hivernale",
+    "results_fertilizer_needed": "Engrais Nécessaire",
+    "results_bags": "Sacs Nécessaires",
+    "results_application_rate": "Dose d'Application",
+    "results_rate_value": "{rate} kg par 100 m²",
+    "results_when_to_apply": "Quand Appliquer",
+    "when_regular": "Appliquez au printemps et en automne pendant la croissance active.",
+    "when_starter": "Appliquez au moment du semis ou de la pose du gazon.",
+    "when_winter": "Appliquez à la fin de l'automne, après l'arrêt de la croissance mais avant le gel du sol.",
+    "tip_watering": "Arrosez votre pelouse dans les 24 heures suivant la fertilisation pour activer les nutriments et éviter les brûlures.",
+    "how_to_h2": "Comment Calculer les Quantités d'Engrais",
+    "how_to_step1": "Mesurez la surface de votre pelouse en mètres carrés.",
+    "how_to_step2": "Choisissez le type d'engrais selon les besoins actuels de votre pelouse.",
+    "how_to_step3": "La calculatrice applique la dose d'azote recommandée par 100 m².",
+    "how_to_step4": "Les résultats indiquent le poids total nécessaire et le nombre de sacs à acheter.",
+    "faq": [
+      {
+        "q": "Combien d'engrais dois-je mettre sur ma pelouse ?",
+        "a": "Une règle générale est 0,5 kg d'azote réel par 100 m² par application. La plupart des particuliers appliquent de l'engrais 2–4 fois par an. Cette calculatrice utilise les ratios N-P-K standards pour déterminer la quantité totale de produit nécessaire."
+      },
+      {
+        "q": "Qu'est-ce que l'engrais de démarrage ?",
+        "a": "L'engrais de démarrage a une teneur en phosphore plus élevée (le chiffre du milieu dans N-P-K) pour favoriser le développement racinaire des nouveaux gazons. Utilisez-le lors du semis d'une nouvelle pelouse ou de la pose de gazon. Passez à l'engrais classique une fois la pelouse établie."
+      },
+      {
+        "q": "Quand dois-je appliquer l'engrais hivernal ?",
+        "a": "Appliquez l'engrais hivernal à la fin de l'automne, généralement en octobre–novembre, après que le gazon a cessé de pousser mais avant que le sol ne gèle. Cela aide les racines à stocker de l'énergie pour la survie hivernale et le verdissement printanier."
+      },
+      {
+        "q": "Puis-je surfertiliser ma pelouse ?",
+        "a": "Oui. La surfertilisation peut brûler votre gazon, provoquer une croissance excessive de la partie aérienne au détriment des racines et polluer les cours d'eau. Suivez toujours les doses recommandées et n'appliquez jamais plus que ce qu'indique l'étiquette."
+      },
+      {
+        "q": "Dois-je fertiliser avant ou après la pluie ?",
+        "a": "Appliquez l'engrais sur un gazon sec, puis arrosez dans les 24 heures. N'appliquez pas avant une forte pluie — l'engrais peut être lessivé avant d'être absorbé. Une pluie légère après l'application est fine et peut aider à l'incorporer."
+      }
+    ],
+    "timing_starter": "Appliquez lors de l'établissement de nouvelles pelouses ou du sursemis. Meilleur au début du printemps ou en automne.",
+    "timing_winter": "Appliquez à la fin de l'automne (octobre–novembre) avant le premier gel pour préparer les racines pour l'hiver.",
+    "timing_maintenance": "Appliquez pendant la saison de croissance active. Saison froide : printemps et automne. Saison chaude : fin du printemps jusqu'à l'été."
+  },
+  "lawn_water_calculator": {
+    "h1": "Calculatrice d'Arrosage de Pelouse",
+    "meta_title": "Calculatrice d'Arrosage — Combien d'Eau?",
+    "meta_description": "Calculez la quantité d'eau dont votre pelouse a besoin par semaine. Calculatrice d'arrosage gratuite basée sur le type de gazon et la surface. Sans inscription.",
+    "area_label": "Surface de la Pelouse",
+    "area_help": "Entrez la surface de votre pelouse en mètres carrés",
+    "grass_type_label": "Type de Gazon",
+    "results_weekly_water": "Besoin Hebdomadaire en Eau",
+    "results_minutes_per_session": "Minutes Par Session",
+    "results_sessions_per_week": "Sessions Par Semaine",
+    "results_gallons_per_week": "Litres Par Semaine",
+    "weekly_water_value": "{gallons} litres",
+    "sessions_value": "{count} fois par semaine",
+    "minutes_value": "{minutes} minutes par session",
+    "tip_watering_depth": "Arrosez profondément et peu fréquemment. Visez à humidifier le sol sur une profondeur de 15 cm à chaque session.",
+    "tip_early_morning": "Arrosez tôt le matin (5–9 h) pour réduire l'évaporation et le risque de maladies.",
+    "how_to_h2": "Combien d'Eau Votre Pelouse Nécessite-t-elle ?",
+    "how_to_step1": "La plupart des pelouses ont besoin de 25–38 mm d'eau par semaine, y compris les précipitations.",
+    "how_to_step2": "Divisez l'eau hebdomadaire en 2–3 sessions pour une croissance profonde des racines.",
+    "how_to_step3": "Chaque session doit apporter environ 12 mm d'eau.",
+    "how_to_step4": "Utilisez un pluviomètre ou une boîte vide pour mesurer le débit de l'arroseur.",
+    "faq": [
+      {
+        "q": "Combien de minutes dois-je arroser ma pelouse ?",
+        "a": "La plupart des arroseurs fournissent environ 12 mm par 30 minutes. Pour une pelouse typique nécessitant 25 mm par semaine, arrosez 30 minutes par session, 2–3 fois par semaine. Le temps réel varie selon le type d'arroseur et la pression de l'eau — mesurez avec un pluviomètre."
+      },
+      {
+        "q": "Vaut-il mieux arroser tous les jours ou tous les quelques jours ?",
+        "a": "Arrosez profondément 2–3 fois par semaine plutôt que légèrement tous les jours. L'arrosage profond et peu fréquent encourage une croissance profonde des racines, rendant votre pelouse plus résistante à la sécheresse. L'arrosage quotidien et superficiel favorise des racines faibles et peu profondes."
+      },
+      {
+        "q": "À quelle heure dois-je arroser ma pelouse ?",
+        "a": "Tôt le matin (5–9 h) est idéal. Le vent est calme, les températures sont fraîches et l'eau a le temps de s'infiltrer avant l'évaporation. Évitez l'arrosage du soir — le gazon reste humide toute la nuit, augmentant le risque de maladies. L'arrosage en milieu de journée gaspille de l'eau par évaporation."
+      },
+      {
+        "q": "Comment savoir si ma pelouse a besoin d'eau ?",
+        "a": "Marchez sur le gazon — si vos empreintes restent visibles plus de quelques minutes, la pelouse a besoin d'eau. Les brins d'herbe qui se plient ou s'enroulent longitudinalement, ou qui prennent une couleur bleu-gris, sont également des signes de stress hydrique."
+      },
+      {
+        "q": "Dois-je ajuster l'arrosage selon les saisons ?",
+        "a": "Oui. En été, augmentez la fréquence d'arrosage. Au printemps et en automne, réduisez-la. En hiver pour les gazons de saison froide, arrosez uniquement s'il n'y a pas eu de précipitations pendant 2–3 semaines. Les gazons de saison chaude ont besoin de peu ou pas d'eau en dormance."
+      }
+    ]
+  },
+  "soil_calculator": {
+    "h1": "Calculatrice de Terre",
+    "meta_title": "Calculatrice de Terre — Combien?",
+    "meta_description": "Calculez la quantité de terre végétale, de compost ou de remblai nécessaire pour votre pelouse ou jardin. Résultats en mètres cubes, pieds cubes et sacs",
+    "area_label": "Surface",
+    "area_help": "Entrez la surface à couvrir en mètres carrés",
+    "depth_label": "Profondeur",
+    "depth_help": "Recommandé : 10–15 cm pour les nouvelles pelouses, 2,5–5 cm pour le terreautage",
+    "results_volume": "Volume Nécessaire",
+    "results_cubic_yards": "Verges Cubes",
+    "results_cubic_feet": "Pieds Cubes",
+    "results_cubic_meters": "Mètres Cubes",
+    "results_bags": "Équivalents en Sacs",
+    "bag_size": "Sac de {size} pi³",
+    "tip_depth": "10–15 cm de terre végétale sont recommandés pour les nouvelles pelouses. 2,5–5 cm suffisent pour le terreautage des pelouses existantes.",
+    "tip_compaction": "Commandez 10–15% supplémentaire pour compenser la compaction. La terre se tasse après l'épandage et l'arrosage.",
+    "how_to_h2": "Comment Calculer le Volume de Terre",
+    "how_to_step1": "Mesurez la surface que vous souhaitez couvrir en mètres carrés.",
+    "how_to_step2": "Déterminez la profondeur souhaitée de la terre (en centimètres).",
+    "how_to_step3": "Multipliez surface × profondeur (en mètres) pour obtenir les mètres cubes.",
+    "how_to_step4": "Multipliez les mètres cubes par 1,308 pour convertir en verges cubes.",
+    "faq": [
+      {
+        "q": "Combien de terre végétale pour une nouvelle pelouse ?",
+        "a": "Pour une nouvelle pelouse, vous avez besoin de 10–15 cm de terre végétale. Pour une surface de 100 m² à 10 cm de profondeur, cela représente environ 10 mètres cubes. Commandez 10–15% supplémentaire pour la compaction."
+      },
+      {
+        "q": "Combien de verges cubes dans un sac de terre ?",
+        "a": "Un sac standard de terre végétale fait 1–2 pieds cubes. Il y a 27 pieds cubes dans 1 verge cube. Vous auriez donc besoin de 14–27 sacs pour une verge cube, selon la taille du sac. L'achat en vrac est généralement plus économique pour les grands projets."
+      },
+      {
+        "q": "Quelle est la différence entre terre végétale et terre de jardin ?",
+        "a": "La terre végétale est la couche supérieure du sol naturel, adaptée au nivellement et au remblai. La terre de jardin est un mélange de terre végétale avec du compost et de la matière organique, meilleur pour les massifs de plantation. Pour les nouvelles pelouses, utilisez de la terre végétale ; pour les jardins, utilisez de la terre de jardin."
+      },
+      {
+        "q": "Quelle profondeur de terre végétale pour le gazon en rouleaux ?",
+        "a": "Vous avez besoin d'au moins 10 cm de bonne terre végétale avant de poser du gazon. 15 cm est idéal pour la santé des racines à long terme. Si votre sol existant est pauvre, ajoutez 5–10 cm de terre végétale et incorporez-la au sol natif avant de poser le gazon."
+      },
+      {
+        "q": "Dois-je ajouter du compost avant de poser du gazon ?",
+        "a": "Oui, épandre 2,5–5 cm de compost et l'incorporer dans les 10–15 cm supérieurs du sol améliore le drainage, la teneur en nutriments et l'établissement des racines. Le compost est particulièrement important pour les sols argileux ou sableux."
+      }
+    ]
+  },
+  "area_converter": {
+    "h1": "Convertisseur de Surface",
+    "meta_title": "Convertisseur de Surface — Unités",
+    "meta_description": "Convertissez entre mètres carrés, pieds carrés, acres, hectares, yards carrés et plus. Convertisseur de surface gratuit avec résultats en temps réel",
+    "from_label": "De",
+    "to_label": "Vers",
+    "value_label": "Valeur",
+    "result_label": "Résultat",
+    "swap": "Inverser",
+    "unit_sqin": "Pouces Carrés",
+    "unit_sqft": "Pieds Carrés",
+    "unit_sqyd": "Verges Carrées",
+    "unit_sqm": "Mètres Carrés",
+    "unit_ac": "Acres",
+    "unit_ha": "Hectares",
+    "unit_sqmi": "Miles Carrés",
+    "conversion_formula": "{from_unit} vers {to_unit}",
+    "formula_text": "Formule de conversion",
+    "common_conversions_h2": "Conversions Courantes",
+    "faq": [
+      {
+        "q": "Combien de mètres carrés dans un acre ?",
+        "a": "Un acre équivaut à 4 047 mètres carrés, soit environ 43 560 pieds carrés. C'est approximativement un carré de 63,6 mètres de côté."
+      },
+      {
+        "q": "Comment convertir des pieds carrés en mètres carrés ?",
+        "a": "Multipliez les pieds carrés par 0,092903 pour obtenir des mètres carrés. Par exemple, 1 000 pi² × 0,092903 = 92,9 m². Pour une estimation rapide, divisez les pieds carrés par 10,764."
+      },
+      {
+        "q": "Combien d'acres fait ma parcelle ?",
+        "a": "Divisez la surface en pieds carrés par 43 560. Par exemple, une parcelle de 10 890 pi² = 0,25 acre (un quart d'acre). Une parcelle de 21 780 pi² = 0,5 acre (un demi-acre)."
+      },
+      {
+        "q": "Qu'est-ce qu'un hectare ?",
+        "a": "Un hectare est une unité métrique de surface égale à 10 000 mètres carrés ou environ 2,471 acres. Elle est couramment utilisée dans les pays utilisant le système métrique pour la mesure des terrains."
+      },
+      {
+        "q": "Combien de verges carrées dans un pied carré ?",
+        "a": "Une verge carrée équivaut à 9 pieds carrés. Pour convertir des pieds carrés en verges carrées, divisez par 9. Par exemple, 1 000 pi² ÷ 9 = 111,1 yd²."
+      }
+    ],
+    "unit_sqcm": "cm²",
+    "copy": "Copier",
+    "conversion_units": {
+      "sqft": "Pieds Carrés",
+      "sqm": "Mètres Carrés",
+      "ac": "Acres",
+      "ha": "Hectares",
+      "sqyd": "Yards Carrés",
+      "sqin": "Pouces Carrés",
+      "sqmi": "Miles Carrés",
+      "sqcm": "Centimètres Carrés"
+    },
+    "conversion_title_template": "Convertisseur de {from} en {to}",
+    "conversion_desc_template": "Convertissez {from} en {to} instantanément. Convertisseur de surface gratuit en ligne avec des résultats précis.",
+    "conv_1": "pieds carré → m²",
+    "conv_2": "m² → pieds carré",
+    "conv_3": "acres → pieds carré",
+    "conv_4": "pieds carré → acres",
+    "conv_5": "hectares → acres",
+    "conv_6": "acres → hectares"
+  },
+  "lawn_care_calendar": {
+    "h1": "Calendrier d'Entretien de la Pelouse",
+    "meta_title": "Calendrier d'Entretien — Mois par Mois",
+    "meta_description": "Planning d'entretien de pelouse mois par mois pour les gazons de saison chaude et froide. Savez quand fertiliser, tondre, arroser et sursemer. Guide gratuit.",
+    "season_toggle_label": "Type de Saison du Gazon",
+    "phase_dormant": "Dormance",
+    "phase_pre_season": "Pré-Saison",
+    "phase_active_growth": "Croissance Active",
+    "phase_transition": "Transition",
+    "phase_preparation": "Préparation",
+    "priority_critical": "Critique",
+    "priority_recommended": "Recommandé",
+    "priority_optional": "Facultatif",
+    "month_names": [
+      "Janvier",
+      "Février",
+      "Mars",
+      "Avril",
+      "Mai",
+      "Juin",
+      "Juillet",
+      "Août",
+      "Septembre",
+      "Octobre",
+      "Novembre",
+      "Décembre"
+    ],
+    "warm_season": {
+      "january": {
+        "phase": "Dormance",
+        "tasks": [
+          "Évitez de marcher sur le gazon gelé ou givré",
+          "Entretenez la tondeuse — affûtez la lame et changez l'huile",
+          "Planifiez les objectifs et le budget d'entretien pour l'année"
+        ],
+        "tip": "Bon moment pour commander semences et fournitures aux prix hors saison."
+      },
+      "february": {
+        "phase": "Dormance",
+        "tasks": [
+          "Appliquez un désherbant pré-émergent fin du mois pour prévenir le chiendent",
+          "Analysez le pH et les nutriments du sol",
+          "Débarrassez les débris et feuilles de la surface"
+        ],
+        "tip": "Le timing du pré-émergent est critique — appliquez avant que la température du sol n'atteigne 13°C."
+      },
+      "march": {
+        "phase": "Pré-Saison",
+        "tasks": [
+          "Appliquez un désherbant pré-émergent si pas fait en février",
+          "Ratissez et éliminez l'accumulation de feutre",
+          "Commencez à tondre quand le gazon verdit"
+        ],
+        "tip": "Ne tondez pas trop court à la première tonte — ne supprimez pas plus d'⅓ de la hauteur des brins."
+      },
+      "april": {
+        "phase": "Croissance Active",
+        "tasks": [
+          "Appliquez la première fertilisation quand le gazon verdit",
+          "Commencez la tonte régulière à la hauteur recommandée pour votre type de gazon",
+          "Traitez localement les mauvaises herbes avec un désherbant post-émergent"
+        ],
+        "tip": "Attendez que le gazon soit bien vert avant de fertiliser — fertiliser trop tôt nourrit les mauvaises herbes."
+      },
+      "may": {
+        "phase": "Croissance Active",
+        "tasks": [
+          "Continuez la tonte régulière — ne supprimez jamais plus d'⅓ de la hauteur",
+          "Appliquez la seconde fertilisation",
+          "Surveillez les dommages de larves et traitez si nécessaire"
+        ],
+        "tip": "Augmentez légèrement la hauteur de tonte à mesure que les températures augmentent pour réduire le stress."
+      },
+      "june": {
+        "phase": "Croissance Active",
+        "tasks": [
+          "Arrosez profondément 1–2 fois par semaine (25 mm au total)",
+          "Surveillez les signes de punaises et traitez rapidement",
+          "Appliquez des traitements localisés pour les mauvaises herbes persistantes"
+        ],
+        "tip": "Arrosez tôt le matin pour réduire l'évaporation et le risque de maladies."
+      },
+      "july": {
+        "phase": "Croissance Active",
+        "tasks": [
+          "Continuez l'arrosage profond pendant les périodes sèches",
+          "Augmentez la hauteur de tonte pour réduire le stress thermique",
+          "Évitez de fertiliser pendant les pics de chaleur — risque de brûlure"
+        ],
+        "tip": "Si le gazon entre en dormance à cause de la chaleur/sécheresse, n'essayez pas de le forcer à verdir avec de l'engrais."
+      },
+      "august": {
+        "phase": "Transition",
+        "tasks": [
+          "Surveillez les maladies fongiques par temps humide",
+          "Continuez l'arrosage selon les besoins",
+          "Commencez à planifier le sursemis automnal si souhaité"
+        ],
+        "tip": "Fin août est le moment de commander semences et fournitures pour les projets d'automne."
+      },
+      "september": {
+        "phase": "Transition",
+        "tasks": [
+          "Appliquez un engrais d'automne pour renforcer les racines avant la dormance",
+          "Sursemez les zones clairsemées ou dégarnies si nécessaire",
+          "Réduisez la fréquence de tonte à mesure que la croissance ralentit"
+        ],
+        "tip": "La fertilisation automnale est l'application la plus importante de l'année pour le gazon de saison chaude."
+      },
+      "october": {
+        "phase": "Préparation",
+        "tasks": [
+          "Appliquez l'engrais hivernal à mi ou fin du mois",
+          "Continuez à tondre jusqu'à l'arrêt de la croissance",
+          "Ratissez les feuilles pour éviter d'étouffer la pelouse"
+        ],
+        "tip": "Ne laissez pas les feuilles sur la pelouse plus de quelques jours — elles bloquent la lumière."
+      },
+      "november": {
+        "phase": "Préparation",
+        "tasks": [
+          "Dernière tonte de la saison — tondez légèrement plus court que d'habitude",
+          "Nettoyez et rangez le matériel de jardinage",
+          "Appliquez un pré-émergent hivernal pour la prévention des mauvaises herbes de saison froide"
+        ],
+        "tip": "Une dernière tonte légèrement plus courte réduit le feutrage et le risque de maladies pendant l'hiver."
+      },
+      "december": {
+        "phase": "Dormance",
+        "tasks": [
+          "Évitez de marcher sur le gazon couvert de givre",
+          "Stockez correctement l'engrais et les produits restants",
+          "Faites le bilan de l'année et planifiez les améliorations pour la prochaine saison"
+        ],
+        "tip": "L'hiver est un bon moment pour rechercher et comparer les variétés de gazon pour les projets de printemps."
+      }
+    },
+    "cool_season": {
+      "january": {
+        "phase": "Dormance",
+        "tasks": [
+          "Évitez de marcher sur le gazon gelé pour prévenir les dommages",
+          "Entretenez la tondeuse — affûtez la lame et changez l'huile",
+          "Planifiez les objectifs d'entretien pour la saison à venir"
+        ],
+        "tip": "Bon moment pour commander semences et fournitures aux prix d'hiver."
+      },
+      "february": {
+        "phase": "Pré-Saison",
+        "tasks": [
+          "Analysez le pH et les nutriments du sol",
+          "Appliquez un désherbant pré-émergent à mi ou fin du mois",
+          "Ratissez les débris et nettoyez la surface de la pelouse"
+        ],
+        "tip": "Le timing du pré-émergent est critique — appliquez avant que la température du sol n'atteigne 13°C."
+      },
+      "march": {
+        "phase": "Pré-Saison",
+        "tasks": [
+          "Appliquez un désherbant pré-émergent si pas fait en février",
+          "Ratissez légèrement pour éliminer les débris hivernaux et la moisissure des neiges",
+          "Commencez à tondre quand le gazon atteint plus de 8 cm"
+        ],
+        "tip": "Ne vous précipitez pas pour le nettoyage printanier — attendez que le sol soit ferme et sec pour éviter la compaction."
+      },
+      "april": {
+        "phase": "Croissance Active",
+        "tasks": [
+          "Appliquez la première fertilisation de la saison",
+          "Commencez la tonte régulière à la hauteur recommandée",
+          "Sursemez les zones clairsemées ou dégarnies"
+        ],
+        "tip": "Le printemps est la deuxième meilleure période pour le sursemis — l'automne est mieux, mais le printemps convient pour les petites réparations."
+      },
+      "may": {
+        "phase": "Croissance Active",
+        "tasks": [
+          "Continuez la tonte et l'arrosage réguliers",
+          "Traitez localement les mauvaises herbes à feuilles larges",
+          "Surveillez les maladies par temps humide"
+        ],
+        "tip": "Laissez les tontes sur la pelouse — elles restituent de l'azote au sol (engrais gratuit)."
+      },
+      "june": {
+        "phase": "Croissance Active",
+        "tasks": [
+          "Augmentez la hauteur de tonte pour l'été afin de réduire le stress thermique",
+          "Arrosez profondément et peu fréquemment — 25–38 mm par semaine",
+          "Surveillez les dommages de larves et traitez si le seuil est atteint"
+        ],
+        "tip": "Un gazon plus haut ombrage le sol, réduit l'évaporation et supprime les mauvaises herbes."
+      },
+      "july": {
+        "phase": "Transition",
+        "tasks": [
+          "Continuez l'arrosage profond pendant les périodes chaudes et sèches",
+          "Évitez de fertiliser pendant la chaleur estivale",
+          "Surveillez la tache brune et autres maladies fongiques"
+        ],
+        "tip": "Si le gazon entre en dormance lors de chaleurs extrêmes, il se rétablira quand les températures baisseront."
+      },
+      "august": {
+        "phase": "Transition",
+        "tasks": [
+          "Commencez à planifier le sursemis et l'aération automnale",
+          "Commandez semences et fournitures pour les projets d'automne",
+          "Continuez l'arrosage selon les besoins"
+        ],
+        "tip": "Fin août à début septembre est la meilleure période pour sursemer les pelouses de saison froide."
+      },
+      "september": {
+        "phase": "Croissance Active",
+        "tasks": [
+          "Aérez la pelouse pour soulager la compaction",
+          "Sursemez les zones clairsemées — c'est la meilleure période de l'année",
+          "Appliquez la fertilisation automnale"
+        ],
+        "tip": "Le sursemis automnal associé à l'aération donne aux semences un contact direct avec le sol pour une meilleure germination."
+      },
+      "october": {
+        "phase": "Croissance Active",
+        "tasks": [
+          "Appliquez l'engrais le plus important de l'année (alimentation automnale)",
+          "Continuez à tondre tant que le gazon pousse",
+          "Ratissez les feuilles régulièrement pour éviter l'étouffement"
+        ],
+        "tip": "La fertilisation automnale constitue les réserves des racines pour la survie hivernale et le verdissement printanier."
+      },
+      "november": {
+        "phase": "Préparation",
+        "tasks": [
+          "Appliquez l'engrais hivernal en fin de mois",
+          "Dernière tonte de la saison — tondez légèrement plus court",
+          "Nettoyez et hivernez le matériel de jardinage"
+        ],
+        "tip": "La dernière application d'engrais d'automne est la plus importante de toute l'année."
+      },
+      "december": {
+        "phase": "Dormance",
+        "tasks": [
+          "Évitez de marcher sur le gazon couvert de givre ou de neige",
+          "Stockez correctement l'engrais et les produits restants",
+          "Planifiez les améliorations pour l'année prochaine"
+        ],
+        "tip": "L'hiver est idéal pour rechercher de nouvelles variétés de gazon et planifier les projets de printemps."
+      }
+    },
+    "faq": [
+      {
+        "q": "Quand dois-je commencer mon calendrier d'entretien ?",
+        "a": "Commencez à surveiller votre pelouse à la fin de l'hiver (février). Les premières tâches actives commencent généralement au début du printemps quand les températures du sol atteignent 13°C. Les gazons de saison froide se réveillent plus tôt au printemps ; les gazons de saison chaude démarrent plus tard quand le sol est constamment chaud."
+      },
+      {
+        "q": "À quelle fréquence dois-je fertiliser ma pelouse ?",
+        "a": "Gazons de saison chaude : 3–4 fois par an (du printemps au début de l'automne). Gazons de saison froide : 2–3 fois par an, avec l'application la plus importante en automne. Évitez de fertiliser pendant les chaleurs extrêmes ou quand le gazon est en dormance."
+      },
+      {
+        "q": "Quand est la meilleure période pour aérer ma pelouse ?",
+        "a": "Aérez les gazons de saison froide au début de l'automne (septembre–octobre). Aérez les gazons de saison chaude à la fin du printemps ou au début de l'été (mai–juin) quand le gazon est en croissance active et peut se rétablir rapidement."
+      },
+      {
+        "q": "Dois-je laisser les tontes sur la pelouse ?",
+        "a": "Oui, dans la plupart des cas. Les tontes se décomposent rapidement et restituent de l'azote et de la matière organique au sol. Cela peut réduire les besoins en engrais jusqu'à 25%. Ramassez les tontes uniquement si le gazon est très long, malade ou pendant la saison de graines de mauvaises herbes."
+      },
+      {
+        "q": "Quand dois-je appliquer un désherbant pré-émergent ?",
+        "a": "Appliquez au début du printemps avant que les températures du sol n'atteignent 13°C pendant 3+ jours consécutifs. Cela empêche la germination du chiendent et autres mauvaises herbes annuelles. Une seconde application 6–8 semaines plus tard assure un contrôle prolongé."
+      }
+    ]
+  },
+  "about": {
+    "h1": "À Propos de TurfCalculator",
+    "meta_title": "À Propos — TurfCalculator",
+    "meta_description": "Découvrez TurfCalculator — calculatrices de gazon et pelouse gratuites et précises pour les particuliers",
+    "mission_h2": "Notre Mission",
+    "mission_p1": "TurfCalculator fournit des calculatrices de gazon gratuites, précises et rapides pour les particuliers et les jardiniers. Que vous achetiez du gazon, semiez des graines ou planifiiez votre calendrier d'entretien, nous vous donnons les chiffres dont vous avez besoin en 30 secondes ou moins.",
+    "mission_p2": "Sans inscription. Sans e-mail. Sans collecte de données. Juste des outils qui fonctionnent.",
+    "how_we_calculate_h2": "Comment Nous Calculons",
+    "how_we_calculate_p1": "Toutes nos calculatrices utilisent des formules professionnelles et des données issues de services de vulgarisation universitaire, des directives du USDA et des instituts de recherche sur les gazons. Nous citons nos sources et maintenons nos données à jour.",
+    "how_we_calculate_p2": "Tous les calculs s'effectuent dans votre navigateur — nous ne voyons jamais vos données ni vos résultats. Vos données restent sur votre appareil.",
+    "who_for_h2": "Pour Qui Est-ce ?",
+    "who_for_p1": "Les particuliers planifiant une installation de gazon ou une rénovation de pelouse.",
+    "who_for_p2": "Les jardiniers amateurs qui veulent savoir combien de semences, d'engrais ou de terre acheter.",
+    "who_for_p3": "Quiconque se trouvant dans l'allée du jardinage en se demandant, \"Combien ai-je besoin ?\"",
+    "disclaimer_h2": "Avertissement",
+    "disclaimer_p": "Nos calculatrices fournissent des estimations basées sur des moyennes professionnelles. Les quantités réelles peuvent varier selon vos conditions spécifiques, les spécifications de votre fournisseur local et les méthodes d'installation. Vérifiez toujours les quantités auprès de votre fournisseur local avant tout achat."
+  },
+  "privacy_policy": {
+    "h1": "Politique de Confidentialité",
+    "meta_title": "Politique de Confidentialité — TurfCalculator",
+    "meta_description": "Politique de confidentialité de TurfCalculator. Nous ne collectons aucune donnée personnelle. Tous les calculs s'effectuent dans votre navigateur",
+    "last_updated": "Dernière mise à jour : Mai 2026",
+    "intro_p": "TurfCalculator respecte votre vie privée. Cette politique explique quelles données nous collectons, comment nous les utilisons et quels sont vos droits.",
+    "data_collection_h2": "Données que Nous Collectons",
+    "data_collection_p1": "Nous ne collectons aucune donnée personnelle. Nous n'exigeons pas de comptes, d'e-mails, de noms ou d'informations personnellement identifiables.",
+    "data_collection_p2": "Toutes les saisies et résultats des calculatrices sont traités entièrement dans votre navigateur. Nous ne voyons, stockons ou transmettons jamais vos calculs.",
+    "analytics_h2": "Analyse",
+    "analytics_p1": "Nous pouvons utiliser Google Analytics 4 pour comprendre comment les visiteurs utilisent notre site. GA4 utilise des adresses IP anonymisées et ne collecte pas d'informations personnellement identifiables.",
+    "analytics_p2": "L'analyse n'est activée qu'après votre consentement via notre bannière de cookies.",
+    "cookies_h2": "Cookies",
+    "cookies_p1": "Cookies essentiels : La préférence de langue est stockée dans le localStorage de votre navigateur (pas un cookie). Ceci est nécessaire au fonctionnement du site.",
+    "cookies_p2": "Cookies analytiques : Définis par Google Analytics uniquement après votre consentement. Ils incluent les cookies _ga et _gid.",
+    "cookies_p3": "Cookies publicitaires : Pourront être définis par Google AdSense à l'avenir, uniquement après votre consentement.",
+    "third_party_h2": "Services Tiers",
+    "third_party_p1": "Cloudflare : Notre hébergeur et fournisseur CDN. Cloudflare peut collecter des données techniques pour la sécurité et la performance.",
+    "third_party_p2": "Google Analytics : Voir la section Analyse ci-dessus.",
+    "third_party_p3": "Google AdSense : Pourra diffuser des publicités à l'avenir. Voir la section Cookies ci-dessus.",
+    "gdpr_h2": "Conformité RGPD",
+    "gdpr_p1": "Puisque nous ne collectons aucune donnée personnelle, la plupart des obligations du RGPD ne s'appliquent pas à notre service principal.",
+    "gdpr_p2": "Vous avez le droit de refuser les cookies analytiques et publicitaires via notre bannière de consentement aux cookies.",
+    "gdpr_p3": "Pour toute question concernant vos données, contactez-nous à l'adresse e-mail ci-dessous.",
+    "ccpa_h2": "Conformité CCPA",
+    "ccpa_p1": "Nous ne vendons pas d'informations personnelles. Nous ne partageons pas d'informations personnelles avec des tiers au-delà des services d'analyse et de publicité.",
+    "ccpa_p2": "Aucune information personnelle n'est collectée par nos services de calculatrices principaux.",
+    "contact_h2": "Contact",
+    "contact_p": "Pour toute demande relative à la confidentialité, veuillez nous contacter via les informations fournies sur notre page À Propos."
+  },
+  "terms": {
+    "h1": "Conditions d'Utilisation",
+    "meta_title": "Conditions d'Utilisation — TurfCalculator",
+    "meta_description": "Conditions d'utilisation de TurfCalculator. Calculatrices de gazon et pelouse gratuites fournies telles quelles à des fins informatives.",
+    "last_updated": "Dernière mise à jour : Mai 2026",
+    "acceptance_h2": "Acceptation des Conditions",
+    "acceptance_p": "En utilisant TurfCalculator, vous acceptez ces conditions d'utilisation. Si vous n'êtes pas d'accord, veuillez ne pas utiliser le site.",
+    "use_h2": "Utilisation du Service",
+    "use_p1": "TurfCalculator fournit des calculatrices en ligne gratuites pour estimer les quantités de matériaux de gazon et de pelouse. Tous les résultats sont des estimations à titre informatif uniquement.",
+    "use_p2": "Vous pouvez utiliser les calculatrices à des fins personnelles non commerciales. Vous ne pouvez pas extraire, copier ou redistribuer le contenu ou les outils sans autorisation.",
+    "accuracy_h2": "Avertissement de Précision",
+    "accuracy_p1": "Les résultats des calculatrices sont basés sur des formules professionnelles et des données moyennes. Les besoins réels en matériaux peuvent varier selon les conditions du site, les spécifications du fournisseur, les méthodes d'installation et les facteurs régionaux.",
+    "accuracy_p2": "Vérifiez toujours les quantités auprès de votre fournisseur local avant tout achat. TurfCalculator n'est pas responsable des achats en excès ou insuffisants résultant de ces calculs.",
+    "no_liability_h2": "Limitation de Responsabilité",
+    "no_liability_p": "TurfCalculator est fourni tel quel sans garantie d'aucune sorte. Nous ne sommes pas responsables des dommages résultant de l'utilisation de nos calculatrices, y compris mais sans s'y limiter les pertes financières dues à des estimations de matériaux incorrectes.",
+    "intellectual_property_h2": "Propriété Intellectuelle",
+    "intellectual_property_p": "Tout le contenu, la conception et le code de TurfCalculator sont la propriété de TurfCalculator. Vous ne pouvez pas copier, modifier ou distribuer nos outils ou contenu sans autorisation écrite.",
+    "changes_h2": "Modifications des Conditions",
+    "changes_p": "Nous pouvons mettre à jour ces conditions de temps à autre. L'utilisation continue du site après les modifications constitue une acceptation des conditions mises à jour."
+  },
+  "disclaimer": {
+    "h1": "Avertissement",
+    "meta_title": "Avertissement — TurfCalculator",
+    "meta_description": "Avertissement de TurfCalculator. Les résultats des calculatrices sont des estimations",
+    "last_updated": "Dernière mise à jour : Mai 2026",
+    "main_p1": "Cette calculatrice fournit des estimations basées sur des formules professionnelles et des données standards. Les besoins réels en gazon, semences et matériaux peuvent varier selon les conditions du site, les spécifications du fournisseur et les méthodes d'installation.",
+    "main_p2": "Vérifiez toujours les quantités auprès de votre fournisseur local avant tout achat. TurfCalculator n'est pas responsable des achats en excès ou insuffisants résultant de ces calculs.",
+    "prices_h2": "Estimations de Prix",
+    "prices_p": "Les estimations de prix sont des fourchettes uniquement, pas des devis. Les prix réels varient selon la région, le fournisseur, le type de gazon, la quantité et la saison. Contactez les fournisseurs locaux pour les prix actuels.",
+    "recommendations_h2": "Recommandations de Types de Gazon",
+    "recommendations_p": "Les informations sur les types de gazon sont des conseils généraux basés sur des conditions typiques, non des avis professionnels. Le climat local, les conditions du sol et les microclimats peuvent affecter les performances du gazon. Consultez un professionnel local de l'entretien des pelouses pour des recommandations spécifiques.",
+    "calendar_h2": "Calendrier d'Entretien",
+    "calendar_p": "Le calendrier d'entretien est basé sur des conditions typiques et des directives générales. Le calendrier réel peut varier selon votre climat local, les conditions météorologiques et l'état spécifique de votre pelouse. Ajustez le calendrier selon les recommandations de votre service de vulgarisation local.",
+    "professional_h2": "Conseil Professionnel",
+    "professional_p": "Les résultats de nos calculatrices ne doivent pas remplacer la consultation d'un professionnel qualifié de l'entretien des pelouses. Pour les projets complexes, les analyses de sol ou les problèmes de nuisibles, consultez un expert local."
+  },
+  "cookie_policy": {
+    "h1": "Politique de Cookies",
+    "meta_title": "Politique de Cookies — TurfCalculator",
+    "meta_description": "Politique de cookies de TurfCalculator. Découvrez les cookies que nous utilisons, pourquoi nous les utilisons et comment gérer vos préférences.",
+    "last_updated": "Dernière mise à jour : Mai 2026",
+    "what_are_h2": "Que Sont les Cookies ?",
+    "what_are_p": "Les cookies sont de petits fichiers texte stockés sur votre appareil lorsque vous visitez un site web. Ils aident le site à mémoriser vos préférences et à améliorer votre expérience.",
+    "essential_h2": "Cookies Essentiels",
+    "essential_p1": "Ils sont nécessaires au bon fonctionnement du site.",
+    "essential_p2": "Préférence de langue : Stockée dans localStorage (pas un cookie traditionnel). Mémorise votre choix de langue entre les visites.",
+    "essential_p3": "Consentement aux cookies : Stocke votre préférence de cookies pour ne pas vous redemander à chaque visite.",
+    "analytics_h2": "Cookies Analytiques",
+    "analytics_p1": "Ils nous aident à comprendre comment les visiteurs utilisent notre site afin de l'améliorer.",
+    "analytics_cookie_ga": "_ga : Distingue les visiteurs uniques. Expire après 2 ans.",
+    "analytics_cookie_gid": "_gid : Distingue les visiteurs uniques par jour. Expire après 24 heures.",
+    "analytics_p2": "Les cookies analytiques ne sont définis qu'après votre consentement via la bannière de cookies.",
+    "advertising_h2": "Cookies Publicitaires",
+    "advertising_p1": "À l'avenir, Google AdSense pourra définir des cookies pour diffuser des publicités personnalisées.",
+    "advertising_p2": "Les cookies publicitaires ne seront définis qu'après votre consentement.",
+    "advertising_p3": "Vous pouvez désactiver la publicité personnalisée via les Paramètres des annonces de Google.",
+    "managing_h2": "Gestion de Vos Préférences de Cookies",
+    "managing_p1": "Vous pouvez modifier vos préférences de cookies à tout moment via la bannière de cookies ou le lien de paramètres dans le pied de page.",
+    "managing_p2": "Vous pouvez également contrôler les cookies via les paramètres de votre navigateur. Notez que la désactivation de tous les cookies peut affecter le fonctionnement du site.",
+    "managing_p3": "Pour plus d'informations sur le suivi en ligne et vos droits, visitez le site de votre autorité locale de protection des données."
+  },
+  "sod_calc": {
+    "total_area_label": "Surface totale",
+    "area_with_waste": "Surface avec {waste}% de perte",
+    "rolls_needed_roll": "Rouleaux nécessaires ({roll})",
+    "roll_standard_short": "Rouleau standard",
+    "roll_mini_short": "Mini rouleau",
+    "roll_large_short": "Grand rouleau",
+    "price_per_sqft": "Prix par pied carré",
+    "cost_help": "Entrez votre prix local par pied carré pour estimer le coût total."
+  },
+  "fert_calc": {
+    "bags_15lb": "Sacs de 15 lb",
+    "bags_30lb": "Sacs de 30 lb"
+  },
+  "seed_calc": {
+    "bags_5lb": "Sacs de 5 lb",
+    "bags_20lb": "Sacs de 20 lb"
+  },
+  "soil_calc": {
+    "bags_2cuft": "Sacs de 2 pi³",
+    "bags_075cuft": "Sacs de 0.75 pi³",
+    "bags_40lb": "Sacs de 40 lb",
+    "liters": "Litres",
+    "bags_1cuft": "Sacs 1 pi³",
+    "bags_15cuft": "Sacs 1.5 pi³",
+    "results_cubic_yards": "Verges cubes"
+  },
+  "area_calc": {
+    "square_feet": "Pieds carrés",
+    "square_meters": "Mètres carrés",
+    "send_to_sod": "Envoyer au calculateur de gazon →",
+    "subtract": "Soustraire",
+    "add_area": "Zone",
+    "shape_rectangle": "Rectangle",
+    "shape_circle": "Cercle",
+    "shape_triangle": "Triangle",
+    "length_ft": "Longueur (ft)",
+    "width_ft": "Largeur (ft)",
+    "radius_ft": "Rayon (ft)",
+    "base_ft": "Base (ft)",
+    "height_ft": "Hauteur (ft)",
+    "square_yards": "Verges carrées",
+    "acres": "Acres"
+  },
+  "lang_name": "Français"
+}

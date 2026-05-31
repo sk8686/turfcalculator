@@ -1,0 +1,1217 @@
+{
+  "404": {
+    "h1": "Pagina Non Trovata",
+    "message": "Stai cercando un calcolatore?",
+    "go_home": "Vai alla Home"
+  },
+  "site": {
+    "title": "TurfCalculator",
+    "description": "Calcolatori gratuiti per prato e tappeto erboso per proprietari",
+    "tagline": "Calcolatori gratuiti — senza registrazione, senza complicazioni"
+  },
+  "nav": {
+    "home": "Home",
+    "sod_calculator": "Calcolatore Tappeto Erboso",
+    "lawn_area_calculator": "Calcolatore Superficie",
+    "grass_type_guide": "Tipi di Erba",
+    "grass_seed_calculator": "Calcolatore Semi",
+    "fertilizer_calculator": "Calcolatore Concime",
+    "lawn_water_calculator": "Calcolatore Irrigazione",
+    "soil_calculator": "Calcolatore Terreno",
+    "area_converter": "Convertitore Superficie",
+    "lawn_care_calendar": "Calendario Manutenzione",
+    "about": "Chi Siamo",
+    "privacy": "Privacy",
+    "terms": "Termini",
+    "disclaimer": "Disclaimer",
+    "cookies": "Cookie",
+    "language": "Lingua"
+  },
+  "pages": {
+    "sod-calculator": "calcolatore-tappeto-erboso",
+    "lawn-area-calculator": "calcolatore-superficie-prato",
+    "grass-type-guide": "tipi-di-erba",
+    "grass-seed-calculator": "calcolatore-semi-prato",
+    "fertilizer-calculator": "calcolatore-concime",
+    "lawn-water-calculator": "calcolatore-irrigazione",
+    "soil-calculator": "calcolatore-terreno",
+    "area-converter": "convertitore-superficie",
+    "lawn-care-calendar": "calendario-manutenzione-prato",
+    "about": "chi-siamo",
+    "privacy-policy": "informativa-privacy",
+    "terms": "termini-di-servizio",
+    "disclaimer": "disclaimer",
+    "cookie-policy": "informativa-cookie"
+  },
+  "common": {
+    "calculate": "Calcola",
+    "reset": "Reimposta",
+    "result": "Risultato",
+    "results": "Risultati",
+    "area": "Superficie",
+    "length": "Lunghezza",
+    "width": "Larghezza",
+    "diameter": "Diametro",
+    "depth": "Profondità",
+    "unit_ft": "piedi",
+    "unit_m": "m",
+    "unit_in": "pollici",
+    "unit_cm": "cm",
+    "unit_sqft": "ft²",
+    "unit_sqm": "m²",
+    "unit_sqyd": "yd²",
+    "unit_ac": "acri",
+    "unit_ha": "ettari",
+    "grass_type": "Tipo di Erba",
+    "includes_extra": "Include {percent}% extra per tagli e adattamenti",
+    "based_on_area": "Basato su un prato di {area} {unit}",
+    "need_different": "Serve una forma o dimensione rotolo diversa?",
+    "add_another_area": "+ Aggiungi un'altra area",
+    "subtract_area": "− Sottrai area (piscina, casa, vialetto)",
+    "total": "Totale",
+    "send_to_sod": "→ Calcola quanto tappeto erboso mi serve",
+    "or": "o",
+    "est_cost": "Costo stim.",
+    "tip": "Suggerimento",
+    "faq_title": "Domande Frequenti",
+    "related_tools": "Strumenti Correlati",
+    "share": "Condividi",
+    "print": "Stampa",
+    "copy": "Copia",
+    "copied": "Copiato!",
+    "close": "Chiudi",
+    "more_options": "Più opzioni",
+    "warm_season": "Stagione Calda",
+    "cool_season": "Stagione Fredda",
+    "full_sun": "Sole Pieno",
+    "partial_sun": "Mezz'ombra",
+    "shade": "Ombra",
+    "new_lawn": "Nuovo Prato",
+    "overseeding": "Risemina",
+    "regular": "Regolare",
+    "starter": "Avviamento",
+    "winter_prep": "Prep. Invernale",
+    "unit_acres": "Acri",
+    "skip_to_content": "Vai al contenuto",
+    "lbs": "lb",
+    "gallons": "galloni",
+    "minutes": "minuti",
+    "cu_yd": "m³",
+    "cu_ft": "ft³",
+    "cu_m": "m³",
+    "unit_l": "L"
+  },
+  "cookie_banner": {
+    "message": "Utilizziamo cookie essenziali per il funzionamento dei calcolatori e cookie analitici opzionali per migliorare il sito.",
+    "essential_only": "Solo Essenziali",
+    "accept_all": "Accetta Tutti",
+    "customize": "Personalizza"
+  },
+  "footer": {
+    "copyright": "© 2026 TurfCalculator. Calcolatori per prato gratuiti per tutti.",
+    "disclaimer_short": "I calcoli sono stime. Verifica con il tuo fornitore locale.",
+    "privacy": "Privacy",
+    "terms": "Termini",
+    "disclaimer": "Disclaimer",
+    "cookies": "Cookie"
+  },
+  "home": {
+    "h1": "Calcolatori Gratuiti per Prato e Tappeto Erboso",
+    "meta_title": "TurfCalculator — Calcolatori per Prato",
+    "meta_description": "Calcolatori gratuiti per tappeto erboso, semi, concime, terreno e irrigazione del tuo prato. Risultati precisi in 30 secondi. Senza registrazione.",
+    "hero_title": "Quanto tappeto erboso ti serve?",
+    "hero_subtitle": "Inserisci le dimensioni del tuo prato e ottieni una risposta immediata",
+    "full_sod_calculator": "→ Calcolatore Completo Tappeto Erboso",
+    "more_calculators": "Altri Calcolatori",
+    "popular_questions": "Domande Popolari",
+    "question_1": "Quanti metri quadrati ha un bancale di tappeto erboso?",
+    "question_2": "Quanto costa un rotolo di tappeto erboso?",
+    "question_3": "Miglior tipo di erba per sole pieno?",
+    "trust_banner": "✅ Gratuito · 🔒 Senza registrazione · 📊 Formule standard di settore",
+    "popular_question_1": "Quanti piedi quadrati in un pallet di zolle?",
+    "popular_question_2": "Quanto costa un rotolo di zolla?",
+    "popular_question_3": "Miglior tipo di erba per il sole pieno?",
+    "popular_question_4": "Come calcolo quanta zolla mi serve?",
+    "popular_answer_1": "Un pallet standard copre 500 piedi² (circa 450 rotoli).",
+    "popular_answer_2": "La zolla costa $0,30–$0,80 per piede² installato, o $0,15–$0,40 per piede² solo per i materiali.",
+    "popular_answer_3": "L'erba Bermuda, Zoysia e Bahia prospera al sole pieno con 6+ ore di luce diretta.",
+    "popular_answer_4": "Misura lunghezza e larghezza del tuo prato in piedi, moltiplicali per ottenere l'area e dividi per la dimensione del rotolo (tipicamente 10 piedi²). Aggiungi il 10% per lo spreco."
+  },
+  "sod_calculator": {
+    "h1": "Calcolatore Tappeto Erboso",
+    "meta_title": "Calcolatore Tappeto Erboso — Quanto?",
+    "meta_description": "Calcola esattamente quanti rotoli e bancali di tappeto erboso ti servono. Calcolatore gratuito con fattore di scarto. Funziona per qualsiasi forma",
+    "length_label": "Lunghezza",
+    "length_help": "Misura il lato più lungo del tuo prato",
+    "width_label": "Larghezza",
+    "width_help": "Misura il lato più corto del tuo prato",
+    "shape_label": "Forma del Prato",
+    "shape_rectangle": "Rettangolo",
+    "shape_square": "Quadrato",
+    "shape_circle": "Cerchio",
+    "shape_oval": "Ovale / Ellisse",
+    "shape_triangle": "Triangolo",
+    "shape_trapezoid": "Trapezio",
+    "side_label": "Lato",
+    "major_axis_label": "Asse Maggiore",
+    "minor_axis_label": "Asse Minore",
+    "base_label": "Base",
+    "height_label": "Altezza",
+    "parallel_a_label": "Lato Parallelo A",
+    "parallel_b_label": "Lato Parallelo B",
+    "waste_factor_label": "Fattore di Scarto",
+    "waste_simple": "Semplice (5%)",
+    "waste_normal": "Normale (10%)",
+    "waste_complex": "Complesso (15%)",
+    "waste_very_complex": "Molto Complesso (20%)",
+    "roll_size_label": "Dimensione Rotolo Tappeto Erboso",
+    "roll_standard": "Standard (60×150 cm = 0,9 m²)",
+    "roll_mini": "Mini (40×60 cm = 0,24 m²)",
+    "roll_large": "Grande (60×200 cm = 1,2 m²)",
+    "roll_custom": "Dimensione Personalizzata",
+    "custom_roll_width": "Larghezza Rotolo",
+    "custom_roll_length": "Lunghezza Rotolo",
+    "results_title": "I Tuoi Risultati",
+    "rolls_needed": "Rotoli Necessari",
+    "pallets_needed": "Bancali Necessari",
+    "estimated_cost": "Costo Stimato",
+    "cost_range": "{low} – {high}",
+    "total_area": "Superficie Totale (con scarto)",
+    "tip_extra": "Compra 1 rotolo extra per riparazioni future",
+    "how_to_h2": "Come Calcolare Quanto Tappeto Erboso Ti Serve",
+    "how_to_step1": "Misura la lunghezza e la larghezza del tuo prato in metri.",
+    "how_to_step2": "Moltiplica lunghezza × larghezza per ottenere la superficie in metri quadrati.",
+    "how_to_step3": "Aggiungi un fattore di scarto (5–20%) per tagli, adattamenti e bordi irregolari.",
+    "how_to_step4": "Dividi la superficie totale per la dimensione del rotolo.",
+    "how_to_step5": "Dividi i rotoli per il numero per bancale per stimare i bancali.",
+    "roll_sizes_h2": "Dimensioni dei Rotoli di Tappeto Erboso Spiegate",
+    "roll_sizes_table_header_size": "Dimensione Rotolo",
+    "roll_sizes_table_header_coverage": "Copertura",
+    "roll_sizes_table_header_use": "Ideale Per",
+    "faq": [
+      {
+        "q": "Quanti metri quadrati ha un bancale di tappeto erboso?",
+        "a": "Un bancale standard copre 30–50 m², contenenti rotoli di tappeto erboso. I bancali piccoli possono coprire 25 m², mentre quelli grandi fino a 60 m². Verifica con il tuo fornitore locale per le dimensioni esatte."
+      },
+      {
+        "q": "Quanto costa un rotolo di tappeto erboso?",
+        "a": "Il tappeto erboso costa tipicamente 3–10 € al m². I prezzi variano in base al tipo di erba, regione e quantità. La Gramigna e la Zoysia tendono a essere più costose, mentre la Festuca è spesso più economica."
+      },
+      {
+        "q": "Devo comprare tappeto erboso extra? Quanto?",
+        "a": "Sì, aggiungi sempre 5–15% extra per lo scarto dovuto ai tagli attorno a curve, alberi e bordi. Usa 5% per rettangoli semplici, 10% per forme normali e 15–20% per prati complessi o irregolari con molti ostacoli."
+      },
+      {
+        "q": "Cos'è il fattore di scarto e perché mi serve?",
+        "a": "Il fattore di scarto tiene conto del tappeto erboso perso durante il taglio e l'adattamento attorno a curve, vialetti, alberi e bordi. Senza di esso, potresti rimanere corto e dover fare un secondo ordine — che potrebbe non corrispondere al primo lotto per colore o freschezza."
+      },
+      {
+        "q": "Quanto tempo può stare il tappeto erboso prima dell'installazione?",
+        "a": "Il tappeto erboso va installato entro 24 ore dalla consegna con clima fresco, e entro 12 ore con clima caldo. Il tappeto erboso che rimane troppo a lungo si surriscalda, ingiallisce e muore. Pianifica di avere il terreno pronto prima dell'arrivo del tappeto erboso."
+      }
+    ],
+    "advanced_toggle": "Opzioni avanzate",
+    "advanced_label": "Avanzate",
+    "shape_l_shape": "Forma L",
+    "radius_label": "Raggio",
+    "l_length_label": "Lunghezza principale",
+    "l_width_label": "Larghezza principale",
+    "l_extension_label": "Lunghezza estensione",
+    "l_ext_width_label": "Larghezza estensione"
+  },
+  "lawn_area_calculator": {
+    "h1": "Calcolatore Superficie Prato",
+    "meta_title": "Calcolatore Superficie — Misura",
+    "meta_description": "Calcola la superficie del tuo prato in metri quadrati, piedi quadrati, acri e altro. Supporta rettangoli, cerchi, triangoli e giardini multi-zona",
+    "shape_label": "Forma del Prato",
+    "shape_rectangle": "Rettangolo",
+    "shape_square": "Quadrato",
+    "shape_circle": "Cerchio",
+    "shape_oval": "Ovale / Ellisse",
+    "shape_triangle": "Triangolo",
+    "shape_trapezoid": "Trapezio",
+    "length_label": "Lunghezza",
+    "width_label": "Larghezza",
+    "side_label": "Lato",
+    "diameter_label": "Diametro",
+    "major_axis_label": "Asse Maggiore",
+    "minor_axis_label": "Asse Minore",
+    "base_label": "Base",
+    "height_label": "Altezza",
+    "parallel_a_label": "Lato Parallelo A",
+    "parallel_b_label": "Lato Parallelo B",
+    "zone_label": "Zona {number}",
+    "remove_zone": "Rimuovi",
+    "your_lawn": "Il Tuo Prato",
+    "total_area": "Superficie Totale",
+    "conversions": "Conversioni",
+    "subtract_zone_label": "Zona di Sottrazione {number}",
+    "how_to_measure_h2": "Come Misurare il Tuo Giardino per il Tappeto Erboso",
+    "how_to_measure_p1": "Per un prato rettangolare semplice, misura la lunghezza e la larghezza con un metro a nastro e moltiplicale.",
+    "how_to_measure_p2": "Per giardini irregolari, dividi l'area in forme semplici (rettangoli, cerchi, triangoli), calcola ciascuna separatamente e poi sommale.",
+    "how_to_measure_p3": "Sottrai le aree dove non ti serve il tappeto erboso: piscine, vialetti, impronta della casa, patii e percorsi.",
+    "common_sizes_h2": "Riferimento Dimensioni Comuni del Prato",
+    "common_sizes_small": "Piccolo lotto urbano: ~150–300 m²",
+    "common_sizes_quarter": "Periferia ¼ acro: ~1.012 m²",
+    "common_sizes_half": "½ acro: ~2.024 m²",
+    "common_sizes_acre": "1 acro: ~4.047 m²",
+    "faq": [
+      {
+        "q": "Come misuro un prato di forma irregolare?",
+        "a": "Dividilo in forme semplici — rettangoli, cerchi e triangoli. Misura ogni sezione separatamente, calcola la superficie di ciascuna e poi sommale tutte. Usa il pulsante 'Aggiungi un'altra area' per inserire più zone."
+      },
+      {
+        "q": "Devo sottrarre la casa e il vialetto dalla superficie?",
+        "a": "Sì. Misura solo l'area dove vuoi effettivamente posare il tappeto erboso. Usa l'opzione 'Sottrai area' per rimuovere l'impronta della casa, il vialetto, il patio, la piscina e qualsiasi altra area non prato."
+      },
+      {
+        "q": "Quanto deve essere precisa la mia misurazione?",
+        "a": "Entro il 5–10% è generalmente sufficiente. Piccoli errori di misurazione sono coperti dal fattore di scarto (tappeto erboso extra per i tagli). Per progetti molto grandi o costosi, considera un rilevamento professionale."
+      },
+      {
+        "q": "Posso usare Google Maps per misurare il mio prato?",
+        "a": "Sì, Google Maps e strumenti di immagini satellitari possono darti una stima approssimativa. Tuttavia, le viste aeree potrebbero non mostrare pendii, dislivelli o dettagli del paesaggio che influenzano l'effettiva superficie di tappeto erboso necessaria."
+      },
+      {
+        "q": "E se il mio prato è in pendenza?",
+        "a": "I prati in pendenza richiedono più tappeto erboso di quanto suggeriscano le misurazioni in piano perché la superficie reale è maggiore. Per pendenze moderate, aggiungi 5–10% extra. Per pendenze ripide, aggiungi 10–20% extra."
+      }
+    ],
+    "length_help": "Misura il lato più lungo del tuo prato",
+    "width_help": "Misura il lato più corto del tuo prato",
+    "send_to_sod": "→ Calcola quanto zolla mi serve",
+    "add_area": "+ Aggiungi un'altra area",
+    "subtract_area": "− Sottrai area (piscina, casa, vialetto)"
+  },
+  "grass_type_guide": {
+    "h1": "Tipi di Erba a Confronto",
+    "meta_title": "Migliori Tipi di Erba — Guida Completa al Confronto (2026)",
+    "meta_description": "Confronta tipi di erba da stagione calda e fredda fianco a fianco. Trova l'erba migliore per sole pieno, ombra, alto traffico e bassa manutenzione",
+    "warm_cool_toggle": "Tipo di Stagione",
+    "warm_season_tab": "Stagione Calda",
+    "cool_season_tab": "Stagione Fredda",
+    "comparison_table_h2": "Tabella di Confronto Dettagliata",
+    "table_header_name": "Tipo di Erba",
+    "table_header_season": "Stagione",
+    "table_header_sun": "Sole",
+    "table_header_drought": "Tolleranza alla Siccità",
+    "table_header_traffic": "Tolleranza al Traffico",
+    "table_header_maintenance": "Manutenzione",
+    "table_header_establish": "Attecchimento",
+    "maintenance_low": "Bassa",
+    "maintenance_medium": "Media",
+    "maintenance_high": "Alta",
+    "establish_slow": "Lento",
+    "establish_moderate": "Moderato",
+    "establish_fast": "Veloce",
+    "tolerance_1": "Molto Bassa",
+    "tolerance_2": "Bassa",
+    "tolerance_3": "Moderata",
+    "tolerance_4": "Alta",
+    "tolerance_5": "Molto Alta",
+    "pros_label": "Vantaggi",
+    "cons_label": "Svantaggi",
+    "best_for_label": "Ideale Per",
+    "usda_zones_label": "Zone USDA",
+    "grass_types": {
+      "bermudagrass": {
+        "name": "Gramigna",
+        "description": "Erba da stagione calda resistente e a rapida diffusione che prospera al sole pieno e sopporta intenso traffico pedonale. La scelta preferita per campi sportivi e giardini familiari attivi nei climi del sud.",
+        "pros": [
+          "Eccellente tolleranza al calore e alla siccità",
+          "Resistente sotto intenso traffico pedonale",
+          "Rapida diffusione e autoriparazione"
+        ],
+        "cons": [
+          "Entra in dormienza (diventa marrone) in inverno",
+          "Richiede sole pieno — fatica all'ombra"
+        ],
+        "sun": "full_sun",
+        "tags": [
+          "warm_season",
+          "full_sun",
+          "high_traffic"
+        ],
+        "drought": "Molto alto",
+        "maintenance": "Alto"
+      },
+      "zoysia": {
+        "name": "Zoysia",
+        "description": "Erba da stagione calda densa come un tappeto con buona tolleranza al freddo. Più lenta ad attecchire ma forma un prato spesso e resistente alle malerbe che vale l'attesa.",
+        "pros": [
+          "Buona tolleranza al freddo per un'erba da stagione calda",
+          "Crescita densa che soffoca le malerbe",
+          "Scarsa necessità di acqua una volta stabilita"
+        ],
+        "cons": [
+          "Lenta ad attecchire — può richiedere 2+ stagioni",
+          "Produce feltro spesso che richiede sfalcio verticale"
+        ],
+        "sun": "partial_sun",
+        "tags": [
+          "warm_season",
+          "partial_sun",
+          "low_maintenance"
+        ],
+        "drought": "Alto",
+        "maintenance": "Medio"
+      },
+      "centipede": {
+        "name": "Erba Centopiedi",
+        "description": "Erba da stagione calda a bassa manutenzione nota come 'l'erba del pigro'. Preferisce terreni acidi e necessita di meno concime della maggior parte degli altri tipi.",
+        "pros": [
+          "Fabbisogni di manutenzione e concimazione molto bassi",
+          "Tollera condizioni di terreno acido",
+          "Tolleranza moderata all'ombra"
+        ],
+        "cons": [
+          "Lenta ad attecchire e diffondersi",
+          "Bassa tolleranza al traffico — non per giardini attivi"
+        ],
+        "sun": "partial_sun",
+        "tags": [
+          "warm_season",
+          "partial_sun",
+          "low_maintenance"
+        ],
+        "drought": "Medio",
+        "maintenance": "Basso"
+      },
+      "st_augustine": {
+        "name": "Erba di Sant'Agostino",
+        "description": "Erba da stagione calda a texture grossolana con la migliore tolleranza all'ombra tra le erbe del sud. Popolare nelle zone costiere per la tolleranza al sale.",
+        "pros": [
+          "Migliore tolleranza all'ombra di qualsiasi erba da stagione calda",
+          "Tollerante al sale — ottima per zone costiere",
+          "Rapido attecchimento da tappeto erboso o zolle"
+        ],
+        "cons": [
+          "Texture grossolana potrebbe non piacere a tutti",
+          "Suscettibile a cimici e malattie"
+        ],
+        "sun": "shade",
+        "tags": [
+          "warm_season",
+          "shade",
+          "coastal"
+        ],
+        "drought": "Medio",
+        "maintenance": "Alto"
+      },
+      "bahiagrass": {
+        "name": "Paspalo",
+        "description": "Erba da stagione calda resistente e tollerante alla siccità per il sud profondo. Prospera in terreni sabbiosi e poveri dove altre erbe falliscono. Portamento aperto con spighe visibili.",
+        "pros": [
+          "Estremamente tollerante alla siccità — sopravvive solo con la pioggia",
+          "Prospera in terreni poveri e sabbiosi",
+          "Scarsi fabbisogni di concime e manutenzione"
+        ],
+        "cons": [
+          "Portamento aperto e grossolano — aspetto poco curato",
+          "Produce spighe alte che richiedono tagli frequenti"
+        ],
+        "sun": "full_sun",
+        "tags": [
+          "warm_season",
+          "full_sun",
+          "low_maintenance"
+        ],
+        "drought": "Molto alto",
+        "maintenance": "Basso"
+      },
+      "kentucky_bluegrass": {
+        "name": "Fienarola dei Prati",
+        "description": "L'erba classica, lussureggiante e verde scuro del nord degli USA. Si diffonde tramite rizomi sotterranei per riempire le zone calve, creando un prato denso e bellissimo.",
+        "pros": [
+          "Colore verde scuro ricco — l'aspetto classico del prato",
+          "Autoriparazione tramite rizomi sotterranei",
+          "Eccellente resistenza al freddo"
+        ],
+        "cons": [
+          "Alta manutenzione — richiede irrigazione e concimazione regolari",
+          "Lenta a germinare da seme (2–4 settimane)"
+        ],
+        "sun": "full_sun",
+        "tags": [
+          "cool_season",
+          "full_sun",
+          "high_maintenance"
+        ],
+        "drought": "Basso",
+        "maintenance": "Alto"
+      },
+      "tall_fescue": {
+        "name": "Festuca Arundinacea",
+        "description": "Erba da stagione fredda adattabile con radici profonde per la resistenza alla siccità. Una delle erbe più versatili, con buone prestazioni al sole, all'ombra e nei climi di transizione.",
+        "pros": [
+          "Sistema radicolare profondo per eccellente resistenza alla siccità",
+          "Buona tolleranza all'ombra per un'erba da stagione fredda",
+          "Bassa manutenzione rispetto alla Fienarola dei Prati"
+        ],
+        "cons": [
+          "Non si diffonde — le zone calve necessitano di risemina",
+          "Può formare ciuffi se non correttamente mantenuta"
+        ],
+        "sun": "partial_sun",
+        "tags": [
+          "cool_season",
+          "partial_sun",
+          "low_maintenance"
+        ],
+        "drought": "Alto",
+        "maintenance": "Medio"
+      },
+      "perennial_ryegrass": {
+        "name": "Loglio Perenne",
+        "description": "Erba da stagione fredda a germinazione rapida e texture fine. Spesso usata in miscele di semi per un rapido attecchimento e nella risemina di prati da stagione calda per verde invernale.",
+        "pros": [
+          "Germina in soli 5–7 giorni — la più veloce di tutte le erbe",
+          "Texture fine e colore verde intenso",
+          "Eccellente tolleranza all'usura per prati attivi"
+        ],
+        "cons": [
+          "Meno resistente al freddo di altre erbe da stagione fredda",
+          "Di breve durata come prato autonomo — migliore in miscele"
+        ],
+        "sun": "full_sun",
+        "tags": [
+          "cool_season",
+          "full_sun",
+          "quick_establish"
+        ],
+        "drought": "Basso",
+        "maintenance": "Medio"
+      },
+      "fine_fescue": {
+        "name": "Festuca Rubra",
+        "description": "Erba da stagione fredda a lamine delicate che eccelle all'ombra e in situazioni di bassa manutenzione. La più tollerante all'ombra tra tutte le erbe da prato comuni.",
+        "pros": [
+          "Migliore tolleranza all'ombra di qualsiasi erba da prato",
+          "Manutenzione molto bassa — necessita poca acqua o concime",
+          "Texture delle lamine fine e attraente"
+        ],
+        "cons": [
+          "Bassa tolleranza al traffico — facilmente danneggiata",
+          "Difficoltà nelle estati calde e umide"
+        ],
+        "sun": "shade",
+        "tags": [
+          "cool_season",
+          "shade",
+          "low_maintenance"
+        ],
+        "drought": "Medio",
+        "maintenance": "Basso"
+      },
+      "sun_shade_mix": {
+        "name": "Miscela sole/ombra",
+        "description": "Una miscela di Kentucky Bluegrass e Fine Fescue che si adatta sia alle zone soleggiate che ombreggiate.",
+        "pros": [
+          "Si adatta alla luce variabile",
+          "Buona per giardini misti",
+          "Manutenzione media"
+        ],
+        "drought": "Medio",
+        "maintenance": "Medio",
+        "sun": "Sole a ombra parziale"
+      }
+    },
+    "faq": [
+      {
+        "q": "Qual è la differenza tra erba da stagione calda e fredda?",
+        "a": "Le erbe da stagione calda (Gramigna, Zoysia, Erba di Sant'Agostino) prosperano nei climi del sud con estati calde e inverni miti. Entrano in dormienza e diventano marroni in inverno. Le erbe da stagione fredda (Fienarola, Festuca, Loglio) crescono meglio nei climi del nord con inverni freddi ed estati moderate. Restano verdi tutto l'anno nelle loro zone preferite."
+      },
+      {
+        "q": "Quale tipo di erba è migliore per sole pieno?",
+        "a": "Per climi caldi, la Gramigna è la scelta migliore per sole pieno. Per climi freddi, la Fienarola dei Prati e il Loglio Perenne performano meglio al sole pieno. La Festuca Arundinacea è una buona scelta generale per condizioni miste."
+      },
+      {
+        "q": "Quale erba cresce meglio all'ombra?",
+        "a": "La Festuca Rubra è l'erba da stagione fredda più tollerante all'ombra. Per climi caldi, l'Erba di Sant'Agostino è la migliore opzione per l'ombra. Nessuna erba prospera in ombra densa — se un'area riceve meno di 3 ore di sole diretto, considera coperture del suolo o pacciamatura."
+      },
+      {
+        "q": "Posso mescolare erbe da stagione calda e fredda?",
+        "a": "Generalmente non è consigliato. Hanno stagioni di crescita, esigenze di irrigazione e altezze di taglio diverse. L'eccezione è la risemina: puoi riseminare un prato da stagione calda con Loglio Perenne per colore verde invernale."
+      },
+      {
+        "q": "Quale erba è migliore per zone ad alto traffico?",
+        "a": "La Gramigna è l'erba da stagione calda più resistente per traffico intenso. Per prati da stagione fredda, il Loglio Perenne e la Fienarola dei Prati tollerano bene il traffico. La Festuca Arundinacea è anch'essa una buona scelta grazie al suo sistema radicolare profondo."
+      }
+    ],
+    "season_toggle_label": "Tipo di stagione dell'erba",
+    "cards_label": "Tipi di erba"
+  },
+  "grass_seed_calculator": {
+    "h1": "Calcolatore Semi da Prato",
+    "meta_title": "Calcolatore Semi da Prato — Quanto Seme Mi Serve? (2026)",
+    "meta_description": "Calcola quanto seme da prato ti serve. Calcolatore gratuito con dosaggi per tutti i tipi di erba. Nuovo prato o risemina. Senza registrazione.",
+    "area_label": "Superficie del Prato",
+    "area_help": "Inserisci la superficie del tuo prato in metri quadrati",
+    "grass_type_label": "Tipo di Erba",
+    "project_type_label": "Tipo di Progetto",
+    "project_new_lawn": "Nuovo Prato",
+    "project_overseeding": "Risemina",
+    "results_seed_needed": "Seme Necessario",
+    "results_bags": "Sacchi Necessari",
+    "results_rate": "Dosaggio di Applicazione",
+    "results_rate_value": "{rate} kg per 100 m²",
+    "seed_rate_note": "Il dosaggio indicato è per {project_type}. La risemina utilizza circa la metà del dosaggio di un nuovo prato.",
+    "tip_timing": "Miglior periodo per seminare: inizio autunno per erbe da stagione fredda, fine primavera per erbe da stagione calda.",
+    "how_to_h2": "Come Calcolare le Quantità di Semi da Prato",
+    "how_to_step1": "Misura la superficie del tuo prato in metri quadrati.",
+    "how_to_step2": "Seleziona il tipo di erba — ciascuno ha un dosaggio di semina raccomandato diverso.",
+    "how_to_step3": "Scegli nuovo prato o risemina — la risemina richiede circa la metà del seme.",
+    "how_to_step4": "Il calcolatore applica il dosaggio per 100 m² alla tua superficie totale.",
+    "faq": [
+      {
+        "q": "Quanto seme da prato mi serve per metro quadrato?",
+        "a": "Dipende dal tipo di erba. La Fienarola dei Prati necessita di circa 1–1,5 kg per 100 m² (nuovo prato), mentre la Festuca Arundinacea richiede 3–4 kg per 100 m². I dosaggi di risemina sono circa la metà di quelli per nuovo prato."
+      },
+      {
+        "q": "Posso seminare troppo seme da prato?",
+        "a": "Sì. La semina eccessiva causa competizione per acqua, nutrienti e luce, producendo erba debole e filiforme soggetta a malattie. Segui i dosaggi raccomandati per il tuo tipo di erba."
+      },
+      {
+        "q": "Devo seminare o posare il tappeto erboso?",
+        "a": "Il tappeto erboso ti dà un prato istantaneo ma costa 10–20 volte più del seme. Il seme impiega 4–8 settimane ad attecchire ma è molto più economico. Il seme è migliore per ampie superfici e proprietari pazienti; il tappeto erboso è migliore per risultati rapidi e pendii soggetti a erosione."
+      },
+      {
+        "q": "Quando è il momento migliore per seminare l'erba?",
+        "a": "Erbe da stagione fredda: inizio autunno (settembre–ottobre) quando il terreno è caldo e l'aria fresca. Erbe da stagione calda: fine primavera (maggio–giugno) quando le temperature del suolo raggiungono i 18–21°C. Evita di seminare nel caldo estivo."
+      },
+      {
+        "q": "Quanto tempo impiega il seme da prato a germinare?",
+        "a": "Loglio Perenne: 5–7 giorni. Festuca Arundinacea: 7–12 giorni. Fienarola dei Prati: 14–28 giorni. Festuca Rubra: 7–14 giorni. Erbe da stagione calda: 14–30 giorni. Mantieni il terreno costantemente umido durante la germinazione."
+      }
+    ],
+    "st_augustine": "Erba di Sant'Agostino",
+    "sod_only_msg": "Generalmente piantata come zolla — i semi non sono comunemente disponibili.",
+    "lb_bags": "Sacchi lb"
+  },
+  "fertilizer_calculator": {
+    "h1": "Calcolatore Concime",
+    "meta_title": "Calcolatore Concime per Prato — Quanto Concime Applicare",
+    "meta_description": "Calcola quanto concime applicare al tuo prato. Calcolatore gratuito per concime regolare, di avviamento e invernale. Senza registrazione.",
+    "area_label": "Superficie del Prato",
+    "area_help": "Inserisci la superficie del tuo prato in metri quadrati",
+    "fertilizer_type_label": "Tipo di Concime",
+    "type_regular": "Regolare",
+    "type_starter": "Avviamento",
+    "type_winter": "Prep. Invernale",
+    "type_regular_desc": "Per prati stabiliti durante la stagione di crescita",
+    "type_starter_desc": "Per nuovo seme o tappeto erboso — più fosforo per la crescita delle radici",
+    "type_winter_desc": "Applicazione autunnale per preparare l'erba alla dormienza invernale",
+    "results_fertilizer_needed": "Concime Necessario",
+    "results_bags": "Sacchi Necessari",
+    "results_application_rate": "Dosaggio di Applicazione",
+    "results_rate_value": "{rate} kg per 100 m²",
+    "results_when_to_apply": "Quando Applicare",
+    "when_regular": "Applica in primavera e autunno durante la crescita attiva.",
+    "when_starter": "Applica al momento della semina o dell'installazione del tappeto erboso.",
+    "when_winter": "Applica a fine autunno, dopo che la crescita si ferma ma prima che il terreno geli.",
+    "tip_watering": "Irriga il prato entro 24 ore dalla concimazione per attivare i nutrienti e prevenire bruciature.",
+    "how_to_h2": "Come Calcolare le Quantità di Concime",
+    "how_to_step1": "Misura la superficie del tuo prato in metri quadrati.",
+    "how_to_step2": "Scegli il tipo di concime in base alle esigenze attuali del tuo prato.",
+    "how_to_step3": "Il calcolatore applica il dosaggio di azoto raccomandato per 100 m².",
+    "how_to_step4": "I risultati mostrano i chilogrammi totali necessari e il numero di sacchi da acquistare.",
+    "faq": [
+      {
+        "q": "Quanto concime devo mettere sul mio prato?",
+        "a": "Una regola generale è 0,5 kg di azoto effettivo per 100 m² per applicazione. La maggior parte dei proprietari applica concime 2–4 volte all'anno. Questo calcolatore utilizza rapporti NPK standard per determinare la quantità totale di prodotto necessaria."
+      },
+      {
+        "q": "Cos'è il concime di avviamento?",
+        "a": "Il concime di avviamento ha un contenuto di fosforo più alto (il numero centrale nel rapporto NPK) per promuovere lo sviluppo radicale nella nuova erba. Usalo quando semini un nuovo prato o posi tappeto erboso. Passa al concime regolare una volta che il prato è stabilito."
+      },
+      {
+        "q": "Quando devo applicare il concime invernale?",
+        "a": "Applica il concime invernale a fine autunno, tipicamente ottobre–novembre, dopo che l'erba ha smesso di crescere ma prima che il terreno geli. Questo aiuta le radici a immagazzinare energia per la sopravvivenza invernale e il rigoglio primaverile."
+      },
+      {
+        "q": "Posso concimare troppo il mio prato?",
+        "a": "Sì. La concimazione eccessiva può bruciare l'erba, causare crescita eccessiva della parte aerea a scapito delle radici e inquinare le acque. Segui sempre i dosaggi raccomandati e non applicare mai più di quanto indicato sull'etichetta."
+      },
+      {
+        "q": "Devo concimare prima o dopo la pioggia?",
+        "a": "Applica il concime sull'erba asciutta, poi irriga entro 24 ore. Non applicare prima di piogge intense — il concime può essere lavato via prima di essere assorbito. Una pioggia leggera dopo l'applicazione va bene e può aiutare ad incorporarlo."
+      }
+    ],
+    "timing_starter": "Applicare quando si stabilisce nuovo prato o sovescio. Meglio all'inizio della primavera o in autunno.",
+    "timing_winter": "Applicare nel tardo autunno (ottobre–novembre) prima del primo gelo per preparare le radici per l'inverno.",
+    "timing_maintenance": "Applicare durante la stagione di crescita attiva. Stagione fredda: primavera e autunno. Stagione calda: tarda primavera fino all'estate."
+  },
+  "lawn_water_calculator": {
+    "h1": "Calcolatore Irrigazione Prato",
+    "meta_title": "Calcolatore Irrigazione — Quanta Acqua Serve al Mio Prato?",
+    "meta_description": "Calcola quanta acqua serve al tuo prato a settimana. Calcolatore irrigazione gratuito basato sul tipo di erba e superficie. Senza registrazione.",
+    "area_label": "Superficie del Prato",
+    "area_help": "Inserisci la superficie del tuo prato in metri quadrati",
+    "grass_type_label": "Tipo di Erba",
+    "results_weekly_water": "Fabbisogno Settimanale d'Acqua",
+    "results_minutes_per_session": "Minuti Per Sessione",
+    "results_sessions_per_week": "Sessioni Per Settimana",
+    "results_gallons_per_week": "Litri Per Settimana",
+    "weekly_water_value": "{gallons} litri",
+    "sessions_value": "{count} volte a settimana",
+    "minutes_value": "{minutes} minuti a sessione",
+    "tip_watering_depth": "Irriga profondamente e raramente. Obiettivo: inumidire il terreno fino a 15 cm di profondità per sessione.",
+    "tip_early_morning": "Irriga al mattino presto (5–9) per ridurre l'evaporazione e il rischio di malattie.",
+    "how_to_h2": "Quanta Acqua Serve al Tuo Prato?",
+    "how_to_step1": "La maggior parte dei prati necessita di 25–38 mm di acqua a settimana, compresa la pioggia.",
+    "how_to_step2": "Dividi l'acqua settimanale in 2–3 sessioni per una crescita profonda delle radici.",
+    "how_to_step3": "Ogni sessione dovrebbe fornire circa 12 mm di acqua.",
+    "how_to_step4": "Usa un pluviometro o una lattina vuota per misurare l'erogazione dell'irrigatore.",
+    "faq": [
+      {
+        "q": "Quanti minuti devo irrigare il mio prato?",
+        "a": "La maggior parte degli irrigatori eroga circa 12 mm in 30 minuti. Per un prato tipico che necessita di 25 mm a settimana, irriga 30 minuti a sessione, 2–3 volte a settimana. Il tempo effettivo varia in base al tipo di irrigatore e pressione dell'acqua — misura con un pluviometro."
+      },
+      {
+        "q": "È meglio irrigare ogni giorno o ogni pochi giorni?",
+        "a": "Irriga profondamente 2–3 volte a settimana anziché leggermente ogni giorno. L'irrigazione profonda e poco frequente favorisce la crescita profonda delle radici, rendendo il prato più resistente alla siccità. L'irrigazione quotidiana superficiale promuove radici deboli e superficiali."
+      },
+      {
+        "q": "A che ora del giorno devo irrigare il mio prato?",
+        "a": "Il mattino presto (5–9) è l'ideale. Il vento è calmo, le temperature sono fresche e l'acqua ha tempo di penetrare prima dell'evaporazione. Evita l'irrigazione serale — l'erba rimane umida tutta la notte, aumentando il rischio di malattie. L'irrigazione di mezzogiorno spreca acqua per evaporazione."
+      },
+      {
+        "q": "Come faccio a sapere se il mio prato ha bisogno d'acqua?",
+        "a": "Cammina sull'erba — se le tue impronte rimangono visibili per più di qualche minuto, il prato ha bisogno d'acqua. Lamine d'erba che si piegano o si arricciano longitudinalmente, o che assumono un colore blu-grigio, sono anch'esse segni di stress idrico."
+      },
+      {
+        "q": "Devo adattare l'irrigazione alle diverse stagioni?",
+        "a": "Sì. Nel caldo estivo, aumenta la frequenza di irrigazione. In primavera e autunno, riducila. In inverno per le erbe da stagione fredda, irriga solo se non ci sono precipitazioni da 2–3 settimane. Le erbe da stagione calda necessitano di poca o nessuna acqua in dormienza."
+      }
+    ]
+  },
+  "soil_calculator": {
+    "h1": "Calcolatore Terreno",
+    "meta_title": "Calcolatore Terriccio — Quanto Terreno Mi Serve? (2026)",
+    "meta_description": "Calcola quanto terriccio, compost o riempimento ti serve per il tuo prato o giardino. Risultati in metri cubi, piedi cubi e sacchi. Gratuito e facile.",
+    "area_label": "Superficie",
+    "area_help": "Inserisci la superficie da coprire in metri quadrati",
+    "depth_label": "Profondità",
+    "depth_help": "Consigliata: 10–15 cm per nuovi prati, 2,5–5 cm per top dressing",
+    "results_volume": "Volume Necessario",
+    "results_cubic_yards": "Iarde Cubiche",
+    "results_cubic_feet": "Piedi Cubici",
+    "results_cubic_meters": "Metri Cubi",
+    "results_bags": "Equivalente in Sacchi",
+    "bag_size": "Sacco da {size} ft³",
+    "tip_depth": "10–15 cm di terriccio sono raccomandati per nuovi prati. 2,5–5 cm sono sufficienti per il top dressing di prati esistenti.",
+    "tip_compaction": "Ordina 10–15% extra per compensare l'assestamento. Il terreno si assesta dopo la distribuzione e l'irrigazione.",
+    "how_to_h2": "Come Calcolare il Volume di Terreno",
+    "how_to_step1": "Misura la superficie che vuoi coprire in metri quadrati.",
+    "how_to_step2": "Decidi la profondità desiderata del terreno (in centimetri).",
+    "how_to_step3": "Moltiplica superficie × profondità (in metri) per ottenere i metri cubi.",
+    "how_to_step4": "Moltiplica i metri cubi per 1,308 per convertire in iarde cubiche.",
+    "faq": [
+      {
+        "q": "Quanto terriccio mi serve per un nuovo prato?",
+        "a": "Per un nuovo prato, servono 10–15 cm di terriccio. Per una superficie di 100 m² a 10 cm di profondità, sono circa 10 metri cubi. Ordina 10–15% extra per l'assestamento."
+      },
+      {
+        "q": "Quante iarde cubiche in un sacco di terreno?",
+        "a": "Un sacco standard di terriccio contiene 1–2 piedi cubi. Ci sono 27 piedi cubi in 1 iarda cubica. Quindi servirebbero 14–27 sacchi per una iarda cubica, a seconda della dimensione del sacco. L'acquisto all'ingrosso è solitamente più economico per grandi progetti."
+      },
+      {
+        "q": "Qual è la differenza tra terriccio e terra da giardino?",
+        "a": "Il terriccio è lo strato superiore del suolo naturale, adatto per livellare e riempire. La terra da giardino è terriccio miscelato con compost e materia organica, migliore per le aiuole. Per nuovi prati, usa terriccio; per giardini, usa terra da giardino."
+      },
+      {
+        "q": "Quale profondità di terriccio per il tappeto erboso?",
+        "a": "Servono almeno 10 cm di buon terriccio prima di posare il tappeto erboso. 15 cm sono ideali per la salute radicale a lungo termine. Se il tuo terreno esistente è povero, aggiungi 5–10 cm di terriccio e incorporalo nel terreno nativo prima di posare il tappeto erboso."
+      },
+      {
+        "q": "Devo aggiungere compost prima di posare il tappeto erboso?",
+        "a": "Sì, spargere 2,5–5 cm di compost e incorporarlo nei 10–15 cm superiori del terreno migliora il drenaggio, il contenuto di nutrienti e l'attecchimento delle radici. Il compost è particolarmente importante per terreni argillosi o sabbiosi."
+      }
+    ]
+  },
+  "area_converter": {
+    "h1": "Convertitore di Superficie",
+    "meta_title": "Convertitore di Superficie — Unità",
+    "meta_description": "Converti tra metri quadrati, piedi quadrati, acri, ettari, iarde quadrate e altro. Convertitore gratuito con risultati in tempo reale. Senza registrazione.",
+    "from_label": "Da",
+    "to_label": "A",
+    "value_label": "Valore",
+    "result_label": "Risultato",
+    "swap": "Inverti",
+    "unit_sqin": "Pollici Quadrati",
+    "unit_sqft": "Piedi Quadrati",
+    "unit_sqyd": "Iarde Quadrate",
+    "unit_sqm": "Metri Quadrati",
+    "unit_ac": "Acri",
+    "unit_ha": "Ettari",
+    "unit_sqmi": "Miglia Quadrate",
+    "conversion_formula": "{from_unit} a {to_unit}",
+    "formula_text": "Formula di conversione",
+    "common_conversions_h2": "Conversioni Comuni",
+    "faq": [
+      {
+        "q": "Quanti metri quadrati ha un acro?",
+        "a": "Un acro equivale a 4.047 metri quadrati, ovvero circa 43.560 piedi quadrati. È approssimativamente un quadrato di 63,6 metri di lato."
+      },
+      {
+        "q": "Come converto i piedi quadrati in metri quadrati?",
+        "a": "Moltiplica i piedi quadrati per 0,092903 per ottenere i metri quadrati. Ad esempio, 1.000 ft² × 0,092903 = 92,9 m². Per una stima rapida, dividi i piedi quadrati per 10,764."
+      },
+      {
+        "q": "Quanti acri ha il mio terreno?",
+        "a": "Dividi i piedi quadrati del tuo terreno per 43.560. Ad esempio, un terreno di 10.890 ft² = 0,25 acri (un quarto di acro). Un terreno di 21.780 ft² = 0,5 acri (mezzo acro)."
+      },
+      {
+        "q": "Cos'è un ettaro?",
+        "a": "Un ettaro è un'unità metrica di superficie pari a 10.000 metri quadrati o circa 2,471 acri. È comunemente usato nei paesi che utilizzano il sistema metrico per la misurazione dei terreni."
+      },
+      {
+        "q": "Quante iarde quadrate in un piede quadrato?",
+        "a": "Una iarda quadrata equivale a 9 piedi quadrati. Per convertire i piedi quadrati in iarde quadrate, dividi per 9. Ad esempio, 1.000 ft² ÷ 9 = 111,1 yd²."
+      }
+    ],
+    "unit_sqcm": "cm²",
+    "copy": "Copia",
+    "conversion_units": {
+      "sqft": "Piedi Quadrati",
+      "sqm": "Metri Quadrati",
+      "ac": "Acri",
+      "ha": "Ettari",
+      "sqyd": "Iarde Quadrate",
+      "sqin": "Pollici Quadrati",
+      "sqmi": "Miglia Quadrate",
+      "sqcm": "Centimetri Quadrati"
+    },
+    "conversion_title_template": "Convertitore da {from} a {to}",
+    "conversion_desc_template": "Converti {from} in {to} istantaneamente. Convertitore di superficie gratuito online con risultati precisi.",
+    "conv_1": "piedi quadri → mq",
+    "conv_2": "mq → piedi quadri",
+    "conv_3": "acri → piedi quadri",
+    "conv_4": "piedi quadri → acri",
+    "conv_5": "ettari → acri",
+    "conv_6": "acri → ettari"
+  },
+  "lawn_care_calendar": {
+    "h1": "Calendario Manutenzione Prato",
+    "meta_title": "Calendario Manutenzione Prato — Programmazione Mese per Mese",
+    "meta_description": "Programma di manutenzione del prato mese per mese per erbe da stagione calda e fredda. Sapere quando concimare, tagliare, irrigare e riseminare. Guida gratuita.",
+    "season_toggle_label": "Tipo di Stagione dell'Erba",
+    "phase_dormant": "Dormienza",
+    "phase_pre_season": "Pre-Stagione",
+    "phase_active_growth": "Crescita Attiva",
+    "phase_transition": "Transizione",
+    "phase_preparation": "Preparazione",
+    "priority_critical": "Critico",
+    "priority_recommended": "Consigliato",
+    "priority_optional": "Opzionale",
+    "month_names": [
+      "Gennaio",
+      "Febbraio",
+      "Marzo",
+      "Aprile",
+      "Maggio",
+      "Giugno",
+      "Luglio",
+      "Agosto",
+      "Settembre",
+      "Ottobre",
+      "Novembre",
+      "Dicembre"
+    ],
+    "warm_season": {
+      "january": {
+        "phase": "Dormienza",
+        "tasks": [
+          "Evita di calpestare l'erba congelata o brinata",
+          "Manutenzione del tosaerba — affila la lama e cambia l'olio",
+          "Pianifica obiettivi e budget per la manutenzione dell'anno"
+        ],
+        "tip": "Buon momento per ordinare semi e forniture a prezzi di bassa stagione."
+      },
+      "february": {
+        "phase": "Dormienza",
+        "tasks": [
+          "Applica diserbante pre-emergenza a fine mese per prevenire la gramigna",
+          "Analizza il pH e i livelli di nutrienti del terreno",
+          "Ripulisci detriti e foglie dalla superficie del prato"
+        ],
+        "tip": "I tempi del pre-emergenza sono critici — applica prima che la temperatura del suolo raggiunga i 13°C."
+      },
+      "march": {
+        "phase": "Pre-Stagione",
+        "tasks": [
+          "Applica diserbante pre-emergenza se non fatto a febbraio",
+          "Scarifica e rimuovi l'accumulo di feltro",
+          "Inizia a tagliare quando l'erba inizia a verdeggiare"
+        ],
+        "tip": "Non tagliare troppo basso al primo taglio — non rimuovere più di ⅓ dell'altezza della lama."
+      },
+      "april": {
+        "phase": "Crescita Attiva",
+        "tasks": [
+          "Applica la prima concimazione quando l'erba verdeggi",
+          "Inizia il taglio regolare all'altezza raccomandata per il tuo tipo di erba",
+          "Tratta localmente le malerbe con diserbante post-emergenza"
+        ],
+        "tip": "Attendi che l'erba sia completamente verde prima di concimare — concimare troppo presto nutre le malerbe."
+      },
+      "may": {
+        "phase": "Crescita Attiva",
+        "tasks": [
+          "Continua il taglio regolare — non rimuovere mai più di ⅓ dell'altezza della lama",
+          "Applica la seconda concimazione",
+          "Monitora i danni da larve e tratta se necessario"
+        ],
+        "tip": "Aumenta leggermente l'altezza di taglio con l'aumentare delle temperature per ridurre lo stress."
+      },
+      "june": {
+        "phase": "Crescita Attiva",
+        "tasks": [
+          "Irriga profondamente 1–2 volte a settimana (25 mm totali)",
+          "Controlla i segni di cimici e trattali prontamente",
+          "Applica trattamenti localizzati per malerbe persistenti"
+        ],
+        "tip": "Irriga al mattino presto per ridurre l'evaporazione e il rischio di malattie."
+      },
+      "july": {
+        "phase": "Crescita Attiva",
+        "tasks": [
+          "Continua l'irrigazione profonda durante i periodi secchi",
+          "Aumenta l'altezza di taglio per ridurre lo stress termico",
+          "Evita di concimare durante il picco di calore — rischio di bruciare l'erba"
+        ],
+        "tip": "Se l'erba entra in dormienza per caldo/siccità, non cercare di forzarla a verde con il concime."
+      },
+      "august": {
+        "phase": "Transizione",
+        "tasks": [
+          "Monitora malattie fungine con tempo umido",
+          "Continua l'irrigazione secondo le necessità",
+          "Inizia a pianificare la risemina autunnale se desiderato"
+        ],
+        "tip": "Fine agosto è il momento per ordinare semi e forniture per i progetti autunnali."
+      },
+      "september": {
+        "phase": "Transizione",
+        "tasks": [
+          "Applica concime autunnale per rafforzare le radici prima della dormienza",
+          "Risemina le zone rade o calve se necessario",
+          "Riduci la frequenza di taglio man mano che la crescita rallenta"
+        ],
+        "tip": "La concimazione autunnale è l'applicazione più importante dell'anno per l'erba da stagione calda."
+      },
+      "october": {
+        "phase": "Preparazione",
+        "tasks": [
+          "Applica concime invernale a metà o fine mese",
+          "Continua a tagliare finché l'erba smette di crescere",
+          "Rastrella le foglie per evitare di soffocare il prato"
+        ],
+        "tip": "Non lasciare le foglie sul prato per più di qualche giorno — bloccano la luce solare."
+      },
+      "november": {
+        "phase": "Preparazione",
+        "tasks": [
+          "Ultimo taglio della stagione — taglia leggermente più basso del normale",
+          "Pulisci e riponi gli attrezzi da giardino",
+          "Applica pre-emergenza invernale per la prevenzione delle malerbe da stagione fredda"
+        ],
+        "tip": "Un taglio finale leggermente più basso riduce l'impaccamento e il rischio di malattie durante l'inverno."
+      },
+      "december": {
+        "phase": "Dormienza",
+        "tasks": [
+          "Evita di calpestare l'erba coperta di brina",
+          "Conserva correttamente il concime e i prodotti chimici rimanenti",
+          "Ripassa l'anno e pianifica miglioramenti per la prossima stagione"
+        ],
+        "tip": "L'inverno è un buon momento per ricercare e confrontare varietà di erba per progetti primaverili."
+      }
+    },
+    "cool_season": {
+      "january": {
+        "phase": "Dormienza",
+        "tasks": [
+          "Evita di calpestare l'erba congelata per prevenire danni",
+          "Manutenzione del tosaerba — affila la lama e cambia l'olio",
+          "Pianifica gli obiettivi di manutenzione per la prossima stagione"
+        ],
+        "tip": "Buon momento per ordinare semi e forniture a prezzi invernali."
+      },
+      "february": {
+        "phase": "Pre-Stagione",
+        "tasks": [
+          "Analizza il pH e i livelli di nutrienti del terreno",
+          "Applica diserbante pre-emergenza a metà o fine mese",
+          "Rastrella i detriti e pulisci la superficie del prato"
+        ],
+        "tip": "I tempi del pre-emergenza sono critici — applica prima che la temperatura del suolo raggiunga i 13°C."
+      },
+      "march": {
+        "phase": "Pre-Stagione",
+        "tasks": [
+          "Applica diserbante pre-emergenza se non fatto a febbraio",
+          "Scarifica leggermente per rimuovere detriti invernali e muffa della neve",
+          "Inizia a tagliare quando l'erba supera gli 8 cm di altezza"
+        ],
+        "tip": "Non affrettare la pulizia primaverile — attendi che il terreno sia fermo e asciutto per evitare compattazione."
+      },
+      "april": {
+        "phase": "Crescita Attiva",
+        "tasks": [
+          "Applica la prima concimazione della stagione",
+          "Inizia il taglio regolare all'altezza raccomandata",
+          "Risemina le zone rade o calve"
+        ],
+        "tip": "La primavera è il secondo momento migliore per la risemina — l'autunno è meglio, ma la primavera funziona per piccole riparazioni."
+      },
+      "may": {
+        "phase": "Crescita Attiva",
+        "tasks": [
+          "Continua il taglio e l'irrigazione regolari",
+          "Tratta localmente le malerbe a foglia larga",
+          "Monitora le malattie in condizioni umide"
+        ],
+        "tip": "Lascia gli sfalci sul prato — restituiscono azoto al terreno (concime gratuito)."
+      },
+      "june": {
+        "phase": "Crescita Attiva",
+        "tasks": [
+          "Aumenta l'altezza di taglio per l'estate per ridurre lo stress termico",
+          "Irriga profondamente e raramente — 25–38 mm a settimana",
+          "Monitora i danni da larve e tratta se la soglia è raggiunta"
+        ],
+        "tip": "Erba più alta ombreggia il terreno, riduce l'evaporazione e sopprime le malerbe."
+      },
+      "july": {
+        "phase": "Transizione",
+        "tasks": [
+          "Continua l'irrigazione profonda durante i periodi caldi e secchi",
+          "Evita di concimare durante il caldo estivo",
+          "Monitora la macchia bruna e altre malattie fungine"
+        ],
+        "tip": "Se l'erba entra in dormienza nel caldo estremo, si riprenderà quando le temperature scenderanno."
+      },
+      "august": {
+        "phase": "Transizione",
+        "tasks": [
+          "Inizia a pianificare la risemina e l'aerazione autunnale",
+          "Ordina semi e forniture per i progetti autunnali",
+          "Continua l'irrigazione secondo le necessità"
+        ],
+        "tip": "Da fine agosto a inizio settembre è il momento migliore per riseminare i prati da stagione fredda."
+      },
+      "september": {
+        "phase": "Crescita Attiva",
+        "tasks": [
+          "Aera il prato per alleviare la compattazione",
+          "Risemina le zone rade — questo è il momento migliore dell'anno",
+          "Applica la concimazione autunnale"
+        ],
+        "tip": "La risemina autunnale combinata con l'aerazione dà al seme contatto diretto con il terreno per la migliore germinazione."
+      },
+      "october": {
+        "phase": "Crescita Attiva",
+        "tasks": [
+          "Applica il concime più importante dell'anno (alimentazione autunnale)",
+          "Continua a tagliare finché l'erba cresce",
+          "Rastrella le foglie regolarmente per evitare soffocamento"
+        ],
+        "tip": "La concimazione autunnale accumula riserve nelle radici per la sopravvivenza invernale e il rigoglio primaverile."
+      },
+      "november": {
+        "phase": "Preparazione",
+        "tasks": [
+          "Applica concime invernale a fine mese",
+          "Ultimo taglio della stagione — taglia leggermente più basso",
+          "Pulisci e prepara gli attrezzi da giardino per l'inverno"
+        ],
+        "tip": "L'ultima applicazione di concime autunnale è la più importante di tutto l'anno."
+      },
+      "december": {
+        "phase": "Dormienza",
+        "tasks": [
+          "Evita di calpestare l'erba coperta di brina o neve",
+          "Conserva correttamente il concime e i prodotti chimici rimanenti",
+          "Pianifica miglioramenti del prato per il prossimo anno"
+        ],
+        "tip": "L'inverno è ideale per ricercare nuove varietà di erba e pianificare progetti primaverili."
+      }
+    },
+    "faq": [
+      {
+        "q": "Quando devo iniziare il mio calendario di manutenzione?",
+        "a": "Inizia a monitorare il prato a fine inverno (febbraio). Le prime attività attive iniziano tipicamente all'inizio della primavera quando le temperature del suolo raggiungono i 13°C. Le erbe da stagione fredda si svegliano prima in primavera; quelle da stagione calda iniziano più tardi quando il suolo è costantemente caldo."
+      },
+      {
+        "q": "Con quale frequenza devo concimare il mio prato?",
+        "a": "Erbe da stagione calda: 3–4 volte all'anno (dalla primavera all'inizio autunno). Erbe da stagione fredda: 2–3 volte all'anno, con l'applicazione più importante in autunno. Evita di concimare durante il caldo estremo o quando l'erba è in dormienza."
+      },
+      {
+        "q": "Qual è il momento migliore per aerare il mio prato?",
+        "a": "Aera le erbe da stagione fredda all'inizio dell'autunno (settembre–ottobre). Aera le erbe da stagione calda a fine primavera o inizio estate (maggio–giugno) quando l'erba cresce attivamente e può riprendersi rapidamente."
+      },
+      {
+        "q": "Devo lasciare gli sfalci sul prato?",
+        "a": "Sì, nella maggior parte dei casi. Gli sfalci si decompongono rapidamente e restituiscono azoto e materia organica al terreno. Questo può ridurre il fabbisogno di concime fino al 25%. Racogli gli sfalci solo se l'erba è molto lunga, malata o durante la stagione dei semi di malerbe."
+      },
+      {
+        "q": "Quando devo applicare il diserbante pre-emergenza?",
+        "a": "Applica all'inizio della primavera prima che le temperature del suolo raggiungano i 13°C per 3+ giorni consecutivi. Questo previene la germinazione della gramigna e altre malerbe annuali. Una seconda applicazione 6–8 settimane dopo fornisce controllo prolungato."
+      }
+    ]
+  },
+  "about": {
+    "h1": "Chi Siamo - TurfCalculator",
+    "meta_title": "Chi Siamo — TurfCalculator",
+    "meta_description": "Scopri TurfCalculator — calcolatori per prato e tappeto erboso gratuiti e precisi per proprietari",
+    "mission_h2": "La Nostra Missione",
+    "mission_p1": "TurfCalculator fornisce calcolatori per prato gratuiti, precisi e veloci per proprietari e fai-da-te. Che tu stia comprando tappeto erboso, piantando semi o pianificando il calendario di manutenzione, ti diamo i numeri che ti servono in 30 secondi o meno.",
+    "mission_p2": "Senza registrazione. Senza email. Senza raccolta dati. Solo strumenti che funzionano.",
+    "how_we_calculate_h2": "Come Calcoliamo",
+    "how_we_calculate_p1": "Tutti i nostri calcolatori utilizzano formule standard di settore e dati da servizi di estensione universitaria, linee guida USDA e istituti di ricerca sul tappeto erboso. Citiamo le nostre fonti e manteniamo i dati aggiornati.",
+    "how_we_calculate_p2": "Tutti i calcoli avvengono nel tuo browser — non vediamo mai i tuoi input o risultati. I tuoi dati restano sul tuo dispositivo.",
+    "who_for_h2": "Per Chi È?",
+    "who_for_p1": "Proprietari che pianificano l'installazione di tappeto erboso o la ristrutturazione del prato.",
+    "who_for_p2": "Giardinieri fai-da-te che vogliono sapere quanto seme, concime o terreno comprare.",
+    "who_for_p3": "Chiunque nel corridoio del garden center si chieda, \"Quanto mi serve?\"",
+    "disclaimer_h2": "Disclaimer",
+    "disclaimer_p": "I nostri calcolatori forniscono stime basate su medie di settore. Le quantità effettive possono variare in base alle condizioni specifiche del tuo sito, alle specifiche del fornitore locale e ai metodi di installazione. Verifica sempre le quantità con il tuo fornitore locale prima dell'acquisto."
+  },
+  "privacy_policy": {
+    "h1": "Informativa sulla Privacy",
+    "meta_title": "Informativa sulla Privacy — TurfCalculator",
+    "meta_description": "Informativa sulla privacy di TurfCalculator. Non raccogliamo dati personali. Tutti i calcoli avvengono nel tuo browser",
+    "last_updated": "Ultimo aggiornamento: Maggio 2026",
+    "intro_p": "TurfCalculator rispetta la tua privacy. Questa informativa spiega quali dati raccogliamo, come li utilizziamo e quali sono i tuoi diritti.",
+    "data_collection_h2": "Dati che Raccogliamo",
+    "data_collection_p1": "Non raccogliamo dati personali. Non richiediamo account, email, nomi o alcuna informazione personalmente identificabile.",
+    "data_collection_p2": "Tutti gli input e i risultati dei calcolatori sono elaborati interamente nel tuo browser. Non vediamo, memorizziamo o trasmettiamo mai i tuoi calcoli.",
+    "analytics_h2": "Analisi",
+    "analytics_p1": "Potremmo utilizzare Google Analytics 4 per capire come i visitatori utilizzano il nostro sito. GA4 utilizza indirizzi IP anonimizzati e non raccoglie informazioni personalmente identificabili.",
+    "analytics_p2": "Le analisi vengono attivate solo dopo che hai fornito il consenso tramite il nostro banner dei cookie.",
+    "cookies_h2": "Cookie",
+    "cookies_p1": "Cookie essenziali: La preferenza della lingua è memorizzata nel localStorage del tuo browser (non è un cookie). Ciò è necessario per il funzionamento del sito.",
+    "cookies_p2": "Cookie analitici: Impostati da Google Analytics solo dopo il tuo consenso. Includono i cookie _ga e _gid.",
+    "cookies_p3": "Cookie pubblicitari: Potrebbero essere impostati da Google AdSense in futuro, solo dopo il tuo consenso.",
+    "third_party_h2": "Servizi di Terze Parti",
+    "third_party_p1": "Cloudflare: Il nostro provider di hosting e CDN. Cloudflare può raccogliere dati tecnici per sicurezza e prestazioni.",
+    "third_party_p2": "Google Analytics: Vedi la sezione Analisi sopra.",
+    "third_party_p3": "Google AdSense: Potrebbe mostrare annunci in futuro. Vedi la sezione Cookie sopra.",
+    "gdpr_h2": "Conformità GDPR",
+    "gdpr_p1": "Poiché non raccogliamo dati personali, la maggior parte degli obblighi GDPR non si applica al nostro servizio principale.",
+    "gdpr_p2": "Hai il diritto di rifiutare i cookie analitici e pubblicitari tramite il nostro banner di consenso ai cookie.",
+    "gdpr_p3": "Per domande sui tuoi dati, contattaci all'indirizzo email indicato di seguito.",
+    "ccpa_h2": "Conformità CCPA",
+    "ccpa_p1": "Non vendiamo informazioni personali. Non condividiamo informazioni personali con terze parti oltre ai servizi di analisi e pubblicità.",
+    "ccpa_p2": "Nessuna informazione personale è raccolta dai nostri servizi di calcolatori principali.",
+    "contact_h2": "Contatti",
+    "contact_p": "Per richieste relative alla privacy, contattaci tramite le informazioni fornite sulla nostra pagina Chi Siamo."
+  },
+  "terms": {
+    "h1": "Termini di Servizio",
+    "meta_title": "Termini di Servizio — TurfCalculator",
+    "meta_description": "Termini di servizio di TurfCalculator. Calcolatori per prato e tappeto erboso gratuiti forniti così come sono a scopo informativo.",
+    "last_updated": "Ultimo aggiornamento: Maggio 2026",
+    "acceptance_h2": "Accettazione dei Termini",
+    "acceptance_p": "Utilizzando TurfCalculator, accetti questi termini di servizio. Se non sei d'accordo, non utilizzare il sito.",
+    "use_h2": "Utilizzo del Servizio",
+    "use_p1": "TurfCalculator fornisce calcolatori online gratuiti per stimare le quantità di materiali per prato e tappeto erboso. Tutti i risultati sono stime a scopo informativo.",
+    "use_p2": "Puoi utilizzare i calcolatori per scopi personali non commerciali. Non puoi estrarre, copiare o ridistribuire i contenuti o gli strumenti senza autorizzazione.",
+    "accuracy_h2": "Avvertenza sulla Precisione",
+    "accuracy_p1": "I risultati dei calcolatori si basano su formule standard di settore e dati medi. I fabbisogni effettivi di materiali possono variare in base alle condizioni del sito, specifiche del fornitore, metodi di installazione e fattori regionali.",
+    "accuracy_p2": "Verifica sempre le quantità con il tuo fornitore locale prima dell'acquisto. TurfCalculator non è responsabile per acquisti in eccesso o in difetto derivanti da questi calcoli.",
+    "no_liability_h2": "Limitazione di Responsabilità",
+    "no_liability_p": "TurfCalculator è fornito così com'è senza garanzia di alcun tipo. Non siamo responsabili per eventuali danni derivanti dall'uso dei nostri calcolatori, inclusi ma non limitati a perdite finanziarie dovute a stime errate dei materiali.",
+    "intellectual_property_h2": "Proprietà Intellettuale",
+    "intellectual_property_p": "Tutti i contenuti, il design e il codice di TurfCalculator sono di proprietà di TurfCalculator. Non puoi copiare, modificare o distribuire i nostri strumenti o contenuti senza autorizzazione scritta.",
+    "changes_h2": "Modifiche ai Termini",
+    "changes_p": "Potremmo aggiornare questi termini di tanto in tanto. L'uso continuato del sito dopo le modifiche costituisce accettazione dei termini aggiornati."
+  },
+  "disclaimer": {
+    "h1": "Disclaimer",
+    "meta_title": "Disclaimer — TurfCalculator",
+    "meta_description": "Disclaimer di TurfCalculator. I risultati dei calcolatori sono stime. Verifica sempre con il tuo fornitore locale prima di acquistare materiali.",
+    "last_updated": "Ultimo aggiornamento: Maggio 2026",
+    "main_p1": "Questo calcolatore fornisce stime basate su formule standard di settore e dati. I fabbisogni effettivi di tappeto erboso, semi e materiali possono variare in base alle condizioni del sito, specifiche del fornitore e metodi di installazione.",
+    "main_p2": "Verifica sempre le quantità con il tuo fornitore locale prima dell'acquisto. TurfCalculator non è responsabile per acquisti in eccesso o in difetto derivanti da questi calcoli.",
+    "prices_h2": "Stime dei Prezzi",
+    "prices_p": "Le stime dei prezzi sono solo fasce, non preventivi. I prezzi effettivi variano per regione, fornitore, tipo di erba, quantità e stagione. Contatta i fornitori locali per i prezzi correnti.",
+    "recommendations_h2": "Raccomandazioni sui Tipi di Erba",
+    "recommendations_p": "Le informazioni sui tipi di erba sono indicazioni generali basate su condizioni tipiche, non consulenza professionale. Il clima locale, le condizioni del terreno e i microclimi possono influenzare le prestazioni dell'erba. Consulta un professionista locale per raccomandazioni specifiche.",
+    "calendar_h2": "Calendario Manutenzione",
+    "calendar_p": "Il calendario di manutenzione si basa su condizioni tipiche e linee guida generali. I tempi effettivi possono variare in base al tuo clima locale, alle condizioni meteorologiche e alle condizioni specifiche del prato. Adatta i tempi secondo le raccomandazioni del tuo servizio di estensione locale.",
+    "professional_h2": "Consulenza Professionale",
+    "professional_p": "I risultati dei nostri calcolatori non dovrebbero sostituire la consulenza di un professionista qualificato della manutenzione del prato. Per progetti complessi, analisi del suolo o problemi di parassiti, consulta un esperto locale."
+  },
+  "cookie_policy": {
+    "h1": "Informativa sui Cookie",
+    "meta_title": "Informativa sui Cookie — TurfCalculator",
+    "meta_description": "Informativa sui cookie di TurfCalculator. Scopri quali cookie utilizziamo, perché li utilizziamo e come gestire le tue preferenze.",
+    "last_updated": "Ultimo aggiornamento: Maggio 2026",
+    "what_are_h2": "Cosa Sono i Cookie?",
+    "what_are_p": "I cookie sono piccoli file di testo memorizzati sul tuo dispositivo quando visiti un sito web. Aiutano il sito a ricordare le tue preferenze e migliorare la tua esperienza.",
+    "essential_h2": "Cookie Essenziali",
+    "essential_p1": "Sono necessari per il corretto funzionamento del sito.",
+    "essential_p2": "Preferenza di lingua: Memorizzata nel localStorage (non un cookie tradizionale). Ricorda la tua scelta di lingua tra le visite.",
+    "essential_p3": "Consenso ai cookie: Memorizza la tua preferenza sui cookie per non chiedertelo di nuovo ad ogni visita.",
+    "analytics_h2": "Cookie Analitici",
+    "analytics_p1": "Ci aiutano a capire come i visitatori utilizzano il nostro sito per poterlo migliorare.",
+    "analytics_cookie_ga": "_ga: Distingue i visitatori unici. Scade dopo 2 anni.",
+    "analytics_cookie_gid": "_gid: Distingue i visitatori unici al giorno. Scade dopo 24 ore.",
+    "analytics_p2": "I cookie analitici vengono impostati solo dopo che hai fornito il consenso tramite il banner dei cookie.",
+    "advertising_h2": "Cookie Pubblicitari",
+    "advertising_p1": "In futuro, Google AdSense potrebbe impostare cookie per mostrare annunci personalizzati.",
+    "advertising_p2": "I cookie pubblicitari saranno impostati solo dopo il tuo consenso.",
+    "advertising_p3": "Puoi disattivare la pubblicità personalizzata tramite le Impostazioni Annunci di Google.",
+    "managing_h2": "Gestione delle Tue Preferenze sui Cookie",
+    "managing_p1": "Puoi modificare le tue preferenze sui cookie in qualsiasi momento utilizzando il banner dei cookie o il link alle impostazioni nel footer.",
+    "managing_p2": "Puoi anche controllare i cookie tramite le impostazioni del tuo browser. Nota che disabilitare tutti i cookie potrebbe influenzare la funzionalità del sito.",
+    "managing_p3": "Per maggiori informazioni sul tracciamento online e i tuoi diritti, visita il sito della tua autorità locale per la protezione dei dati."
+  },
+  "sod_calc": {
+    "total_area_label": "Area totale",
+    "area_with_waste": "Area con {waste}% di scarto",
+    "rolls_needed_roll": "Rotoli necessari ({roll})",
+    "roll_standard_short": "Rotolo standard",
+    "roll_mini_short": "Mini rotolo",
+    "roll_large_short": "Rotolo grande",
+    "price_per_sqft": "Prezzo per sq ft",
+    "cost_help": "Inserisci il prezzo locale per piede quadrato per stimare il costo totale."
+  },
+  "fert_calc": {
+    "bags_15lb": "Sacchi da 15 lb",
+    "bags_30lb": "Sacchi da 30 lb"
+  },
+  "seed_calc": {
+    "bags_5lb": "Sacchi da 5 lb",
+    "bags_20lb": "Sacchi da 20 lb"
+  },
+  "soil_calc": {
+    "bags_2cuft": "Sacchi da 2 ft³",
+    "bags_075cuft": "Sacchi da 0.75 ft³",
+    "bags_40lb": "Sacchi da 40 lb",
+    "liters": "Litri",
+    "bags_1cuft": "Sacchi 1 piede³",
+    "bags_15cuft": "Sacchi 1.5 piede³",
+    "results_cubic_yards": "Iarde cubiche"
+  },
+  "area_calc": {
+    "square_feet": "Piedi quadrati",
+    "square_meters": "Metri quadrati",
+    "send_to_sod": "Invia al calcolatore di tappeto erboso →",
+    "subtract": "Sottrarre",
+    "add_area": "Area",
+    "shape_rectangle": "Rettangolo",
+    "shape_circle": "Cerchio",
+    "shape_triangle": "Triangolo",
+    "length_ft": "Lunghezza (ft)",
+    "width_ft": "Larghezza (ft)",
+    "radius_ft": "Raggio (ft)",
+    "base_ft": "Base (ft)",
+    "height_ft": "Altezza (ft)",
+    "square_yards": "Iarde quadrate",
+    "acres": "Acri"
+  },
+  "lang_name": "Italiano"
+}
