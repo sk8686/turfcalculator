@@ -448,8 +448,10 @@ function loadTemplates() {
   }
 }
 
+const LANG_ORDER = ['en', 'zh', 'es', 'ar', 'pt', 'ja', 'de', 'fr', 'ko', 'it', 'tr', 'pl', 'nl', 'sv'];
+
 function buildPages() {
-  const allLangs = Object.keys(languages).sort();
+  const allLangs = LANG_ORDER.filter(l => languages[l]);
   const enData = languages['en'];
   if (!enData) {
     console.error('  Error: English (en.json) is required as the base language');

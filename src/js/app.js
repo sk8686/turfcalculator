@@ -1,7 +1,7 @@
 'use strict';
 
 const TurfApp = (() => {
-  const SUPPORTED_LANGS = ['en', 'es', 'fr', 'de', 'pt', 'it', 'nl', 'sv', 'pl', 'tr', 'ar', 'ja', 'ko', 'zh'];
+  const SUPPORTED_LANGS = ['en', 'zh', 'es', 'ar', 'pt', 'ja', 'de', 'fr', 'ko', 'it', 'tr', 'pl', 'nl', 'sv'];
   const DEFAULT_LANG = 'en';
   const COOKIE_CONSENT_KEY = 'turf_cookie_consent';
   const LANG_PREF_KEY = 'turf_lang_pref';
