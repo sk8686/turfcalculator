@@ -105,6 +105,7 @@
     "message": "Używamy niezbędnych plików cookies do działania kalkulatorów oraz opcjonalnych plików analitycznych do ulepszania strony.",
     "essential_only": "Tylko niezbędne",
     "accept_all": "Akceptuj wszystkie",
+    "reject_all": "Odrzuć Wszystkie",
     "customize": "Dostosuj"
   },
   "footer": {

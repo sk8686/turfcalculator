@@ -17,13 +17,6 @@ const LawnWaterCalculator = (() => {
   const INCHES_PER_SQFT_TO_GALLONS = 0.623;
   const SPRINKLER_RATE_IN_PER_HR = 1.5;
 
-  function t(key, fallback) {
-    const parts = key.split('.');
-    let val = window.I18N;
-    for (const p of parts) { val = val?.[p]; }
-    return (val !== undefined && val !== null) ? val : fallback;
-  }
-
   function calculate(area, grassType) {
     if (!area || area <= 0 || !Number.isFinite(area)) {
       return { gallonsPerWeek: 0, inchesPerWeek: 0, minutesPerSession: 0, sessionsPerWeek: 0 };
@@ -49,19 +42,19 @@ const LawnWaterCalculator = (() => {
     const fmt = (v) => TurfApp.formatNumber(v);
     container.innerHTML = `
       <div class="result-card">
-        <div class="result-label">${t('lawn_water_calculator.results_weekly_water', 'Weekly Water Need')}</div>
-        <div class="result-value">${fmt(result.inchesPerWeek)} ${t('common.unit_in', 'inches')}</div>
+        <div class="result-label">${TurfApp.t('lawn_water_calculator.results_weekly_water', 'Weekly Water Need')}</div>
+        <div class="result-value">${fmt(result.inchesPerWeek)} ${TurfApp.t('common.unit_in', 'inches')}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('lawn_water_calculator.results_gallons_per_week', 'Gallons Per Week')}</div>
-        <div class="result-value">${fmt(result.gallonsPerWeek)} ${t('common.gallons', 'gallons')}</div>
+        <div class="result-label">${TurfApp.t('lawn_water_calculator.results_gallons_per_week', 'Gallons Per Week')}</div>
+        <div class="result-value">${fmt(result.gallonsPerWeek)} ${TurfApp.t('common.gallons', 'gallons')}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('lawn_water_calculator.results_minutes_per_session', 'Minutes Per Session')}</div>
-        <div class="result-value">${fmt(result.minutesPerSession, { maximumFractionDigits: 0 })} ${t('common.minutes', 'minutes')}</div>
+        <div class="result-label">${TurfApp.t('lawn_water_calculator.results_minutes_per_session', 'Minutes Per Session')}</div>
+        <div class="result-value">${fmt(result.minutesPerSession, { maximumFractionDigits: 0 })} ${TurfApp.t('common.minutes', 'minutes')}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('lawn_water_calculator.results_sessions_per_week', 'Sessions Per Week')}</div>
+        <div class="result-label">${TurfApp.t('lawn_water_calculator.results_sessions_per_week', 'Sessions Per Week')}</div>
         <div class="result-value">${fmt(result.sessionsPerWeek, { maximumFractionDigits: 0 })}</div>
       </div>
     `;

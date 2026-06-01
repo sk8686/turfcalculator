@@ -105,6 +105,7 @@
     "message": "We use essential cookies to make our calculators work and optional analytics cookies to improve the site.",
     "essential_only": "Essential Only",
     "accept_all": "Accept All",
+    "reject_all": "Reject All",
     "customize": "Customize"
   },
   "footer": {

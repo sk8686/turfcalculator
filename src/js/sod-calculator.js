@@ -55,13 +55,6 @@ const SodCalculator = (() => {
     return { area, areaWithWaste, rolls, pallets };
   }
 
-  function t(key, fallback) {
-    const parts = key.split('.');
-    let val = window.I18N;
-    for (const p of parts) { val = val?.[p]; }
-    return (val !== undefined && val !== null) ? val : fallback;
-  }
-
   function renderResults(result) {
     const container = document.getElementById('sod-results');
     if (!container) return;
@@ -70,15 +63,15 @@ const SodCalculator = (() => {
       return;
     }
     const fmt = (v) => TurfApp.formatNumber(v);
-    const sqFt = t('common.unit_sqft', 'sq ft');
-    const totalAreaLabel = t('sod_calc.total_area_label', 'Total Area');
-    const wasteLabel = t('sod_calc.area_with_waste', 'Area with {waste}% Waste').replace('{waste}', currentWaste);
+    const sqFt = TurfApp.t('common.unit_sqft', 'sq ft');
+    const totalAreaLabel = TurfApp.t('sod_calc.total_area_label', 'Total Area');
+    const wasteLabel = TurfApp.t('sod_calc.area_with_waste', 'Area with {waste}% Waste').replace('{waste}', currentWaste);
     const rollFallbacks = { standard: 'Standard Roll', mini: 'Mini Roll', large: 'Large Roll' };
-    const rollsLabel = t('sod_calc.rolls_needed_roll', 'Rolls Needed ({roll})').replace('{roll}', t(ROLL_SIZES[currentRoll].labelKey, rollFallbacks[currentRoll]));
-    const palletsLabel = t('sod_calculator.pallets_needed', 'Pallets Needed');
-    const costLabel = t('sod_calculator.estimated_cost', 'Estimated Cost');
-    const priceLabel = t('sod_calc.price_per_sqft', 'Price per sq ft');
-    const costHelp = t('sod_calc.cost_help', 'Enter your local price per sq ft to estimate total cost.');
+    const rollsLabel = TurfApp.t('sod_calc.rolls_needed_roll', 'Rolls Needed ({roll})').replace('{roll}', TurfApp.t(ROLL_SIZES[currentRoll].labelKey, rollFallbacks[currentRoll]));
+    const palletsLabel = TurfApp.t('sod_calculator.pallets_needed', 'Pallets Needed');
+    const costLabel = TurfApp.t('sod_calculator.estimated_cost', 'Estimated Cost');
+    const priceLabel = TurfApp.t('sod_calc.price_per_sqft', 'Price per sq ft');
+    const costHelp = TurfApp.t('sod_calc.cost_help', 'Enter your local price per sq ft to estimate total cost.');
     container.innerHTML = `
       <div class="result-card result-card--main">
         <div class="result-label">${totalAreaLabel}</div>

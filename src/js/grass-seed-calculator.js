@@ -16,13 +16,6 @@ const GrassSeedCalculator = (() => {
 
   let seedingType = 'new_lawn';
 
-  function t(key, fallback) {
-    const parts = key.split('.');
-    let val = window.I18N;
-    for (const p of parts) { val = val?.[p]; }
-    return (val !== undefined && val !== null) ? val : fallback;
-  }
-
   function calculate(area, grassType) {
     if (!area || area <= 0 || !Number.isFinite(area)) {
       return { seedLbs: 0, bagSize: 0, bags: 0, isSodOnly: false };
@@ -46,8 +39,8 @@ const GrassSeedCalculator = (() => {
     if (result.isSodOnly) {
       container.innerHTML = `
         <div class="result-card result-card-info">
-          <div class="result-label">${t('grass_seed_calculator.st_augustine', 'St. Augustine Grass')}</div>
-          <div class="result-value">${t('grass_seed_calculator.sod_only_msg', 'Typically planted as sod only — seed is not commonly available.')}</div>
+          <div class="result-label">${TurfApp.t('grass_seed_calculator.st_augustine', 'St. Augustine Grass')}</div>
+          <div class="result-value">${TurfApp.t('grass_seed_calculator.sod_only_msg', 'Typically planted as sod only — seed is not commonly available.')}</div>
         </div>`;
       return;
     }
@@ -60,11 +53,11 @@ const GrassSeedCalculator = (() => {
     const fmt = (v) => TurfApp.formatNumber(v);
     container.innerHTML = `
       <div class="result-card">
-        <div class="result-label">${t('grass_seed_calculator.results_seed_needed', 'Seed Needed')}</div>
-        <div class="result-value">${fmt(result.seedLbs)} ${t('common.lbs', 'lbs')}</div>
+        <div class="result-label">${TurfApp.t('grass_seed_calculator.results_seed_needed', 'Seed Needed')}</div>
+        <div class="result-value">${fmt(result.seedLbs)} ${TurfApp.t('common.lbs', 'lbs')}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('grass_seed_calculator.results_bags', 'Bags Needed')} (${result.bagSize} ${t('grass_seed_calculator.lb_bags', 'lb bags')})</div>
+        <div class="result-label">${TurfApp.t('grass_seed_calculator.results_bags', 'Bags Needed')} (${result.bagSize} ${TurfApp.t('grass_seed_calculator.lb_bags', 'lb bags')})</div>
         <div class="result-value">${fmt(result.bags, { maximumFractionDigits: 0 })}</div>
       </div>
     `;

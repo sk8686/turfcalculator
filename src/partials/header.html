@@ -45,6 +45,7 @@
 <div class="cookie-banner" id="cookie-banner" hidden>
   <p class="cookie-banner__text">🍪 {{cookie_banner.message}}</p>
   <div class="cookie-banner__actions">
+    <button type="button" class="btn btn--sm" id="cookie-reject" data-consent="reject">{{cookie_banner.reject_all}}</button>
     <button type="button" class="btn btn--sm" id="cookie-essential" data-consent="essential">{{cookie_banner.essential_only}}</button>
     <button type="button" class="btn btn--sm btn--primary" id="cookie-accept" data-consent="accept">{{cookie_banner.accept_all}}</button>
   </div>

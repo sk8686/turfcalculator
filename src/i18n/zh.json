@@ -105,6 +105,7 @@
     "message": "我们使用必要的Cookie来使计算器正常工作，以及可选的分析Cookie来改进网站。",
     "essential_only": "仅必要",
     "accept_all": "全部接受",
+    "reject_all": "拒绝全部",
     "customize": "自定义"
   },
   "footer": {

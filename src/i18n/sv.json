@@ -105,6 +105,7 @@
     "message": "Vi använder väsentliga cookies för att våra kalkylatorer ska fungera och valfria analyscookies för att förbättra webbplatsen.",
     "essential_only": "Endast Väsentliga",
     "accept_all": "Acceptera Alla",
+    "reject_all": "Avvisa Alla",
     "customize": "Anpassa"
   },
   "footer": {

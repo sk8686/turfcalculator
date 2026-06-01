@@ -1,16 +1,16 @@
 # Dependencies
 node_modules/
 
-# Build output (dist is needed for Cloudflare Pages, keep it)
-# dist/  <-- we WANT to commit this for Cloudflare Pages
+# Build output (dist is needed for Cloudflare Pages)
+dist/
 
 # Test & QA artifacts
 qa-screenshots/
 screenshots/
 *.png
-*.json
-!package.json
-!package-lock.json
+
+# i18n JSON files are source code, keep them
+# Only ignore root-level generated JSON
 
 # Debug / one-off test scripts (root level)
 debug-*.js

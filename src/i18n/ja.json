@@ -105,6 +105,7 @@
     "message": "計算ツールの動作に必要な必須Cookieと、サイト改善のためのオプション分析Cookieを使用しています。",
     "essential_only": "必須のみ",
     "accept_all": "すべて許可",
+    "reject_all": "すべて拒否",
     "customize": "カスタマイズ"
   },
   "footer": {

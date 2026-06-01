@@ -5,13 +5,6 @@ const SoilCalculator = (() => {
   const CUM_PER_CUYD = 0.7646;
   const LITERS_PER_CUYD = 764.6;
 
-  function t(key, fallback) {
-    const parts = key.split('.');
-    let val = window.I18N;
-    for (const p of parts) { val = val?.[p]; }
-    return (val !== undefined && val !== null) ? val : fallback;
-  }
-
   function calculate(area, depth) {
     if (!area || area <= 0 || !Number.isFinite(area) || !depth || depth <= 0 || !Number.isFinite(depth)) {
       return { cubicYards: 0, cubicFeet: 0, cubicMeters: 0, liters: 0, bags075: 0, bags1: 0, bags15: 0 };
@@ -36,31 +29,31 @@ const SoilCalculator = (() => {
     const fmt = (v, digits = 2) => TurfApp.formatNumber(v, { maximumFractionDigits: digits });
     container.innerHTML = `
       <div class="result-card">
-        <div class="result-label">${t('soil_calc.results_cubic_yards', 'Cubic Yards')}</div>
-        <div class="result-value">${fmt(result.cubicYards)} ${t('common.cu_yd', 'cu yd')}</div>
+        <div class="result-label">${TurfApp.t('soil_calc.results_cubic_yards', 'Cubic Yards')}</div>
+        <div class="result-value">${fmt(result.cubicYards)} ${TurfApp.t('common.cu_yd', 'cu yd')}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('soil_calculator.results_cubic_feet', 'Cubic Feet')}</div>
-        <div class="result-value">${fmt(result.cubicFeet)} ${t('common.cu_ft', 'cu ft')}</div>
+        <div class="result-label">${TurfApp.t('soil_calculator.results_cubic_feet', 'Cubic Feet')}</div>
+        <div class="result-value">${fmt(result.cubicFeet)} ${TurfApp.t('common.cu_ft', 'cu ft')}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('soil_calculator.results_cubic_meters', 'Cubic Meters')}</div>
-        <div class="result-value">${fmt(result.cubicMeters)} ${t('common.cu_m', 'cu m')}</div>
+        <div class="result-label">${TurfApp.t('soil_calculator.results_cubic_meters', 'Cubic Meters')}</div>
+        <div class="result-value">${fmt(result.cubicMeters)} ${TurfApp.t('common.cu_m', 'cu m')}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('soil_calc.liters', 'Liters')}</div>
-        <div class="result-value">${fmt(result.liters, 0)} ${t('common.unit_l', 'L')}</div>
+        <div class="result-label">${TurfApp.t('soil_calc.liters', 'Liters')}</div>
+        <div class="result-value">${fmt(result.liters, 0)} ${TurfApp.t('common.unit_l', 'L')}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('soil_calc.bags_075cuft', '0.75 cu ft Bags')}</div>
+        <div class="result-label">${TurfApp.t('soil_calc.bags_075cuft', '0.75 cu ft Bags')}</div>
         <div class="result-value">${fmt(result.bags075, 0)}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('soil_calc.bags_1cuft', '1 cu ft Bags')}</div>
+        <div class="result-label">${TurfApp.t('soil_calc.bags_1cuft', '1 cu ft Bags')}</div>
         <div class="result-value">${fmt(result.bags1, 0)}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('soil_calc.bags_15cuft', '1.5 cu ft Bags')}</div>
+        <div class="result-label">${TurfApp.t('soil_calc.bags_15cuft', '1.5 cu ft Bags')}</div>
         <div class="result-value">${fmt(result.bags15, 0)}</div>
       </div>
     `;

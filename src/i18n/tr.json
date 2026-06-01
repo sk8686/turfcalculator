@@ -105,6 +105,7 @@
     "message": "Hesaplayıcılarımızın çalışması için gerekli çerezleri ve siteyi geliştirmek için isteğe bağlı analitik çerezleri kullanıyoruz.",
     "essential_only": "Yalnızca Gerekli",
     "accept_all": "Tümünü Kabul Et",
+    "reject_all": "Tümünü Reddet",
     "customize": "Özelleştir"
   },
   "footer": {

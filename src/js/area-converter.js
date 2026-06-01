@@ -12,13 +12,6 @@ const AreaConverter = (() => {
     sqcm: { label: 'sq cm', factor: 929.0304 },
   };
 
-  function t(key, fallback) {
-    const parts = key.split('.');
-    let val = window.I18N;
-    for (const p of parts) { val = val?.[p]; }
-    return (val !== undefined && val !== null) ? val : fallback;
-  }
-
   function convert(value, fromUnit, toUnit) {
     if (!value || !Number.isFinite(value) || value < 0) return 0;
     const from = UNITS[fromUnit];

@@ -59,7 +59,11 @@ const TurfApp = (() => {
       const btn = e.target.closest('[data-consent]');
       if (!btn) return;
       const choice = btn.dataset.consent;
-      setCookieConsent(choice === 'accept');
+      if (choice === 'accept') {
+        setCookieConsent(true);
+      } else {
+        setCookieConsent(false);
+      }
     });
   }
 
@@ -119,6 +123,24 @@ const TurfApp = (() => {
         toggle.setAttribute('aria-expanded', 'false');
         window.location.href = link.href;
       });
+    });
+  }
+
+  function initMobileMenu() {
+    const toggle = document.getElementById('menu-toggle');
+    const nav = document.querySelector('.header__nav');
+    if (!toggle || !nav) return;
+    toggle.addEventListener('click', () => {
+      const isOpen = nav.classList.toggle('header__nav--open');
+      toggle.setAttribute('aria-expanded', String(isOpen));
+      toggle.textContent = isOpen ? '✕' : '☰';
+    });
+    document.addEventListener('click', (e) => {
+      if (!nav.contains(e.target) && !toggle.contains(e.target)) {
+        nav.classList.remove('header__nav--open');
+        toggle.setAttribute('aria-expanded', 'false');
+        toggle.textContent = '☰';
+      }
     });
   }
 
@@ -265,6 +287,7 @@ const TurfApp = (() => {
     detectLanguage();
     initCookieConsent();
     initMobileNav();
+    initMobileMenu();
     initHeaderNav();
     initLanguageSwitcher();
     initSmoothScroll();
@@ -289,5 +312,11 @@ const TurfApp = (() => {
     formatNumber,
     formatCurrency,
     onReady,
+    t(key, fallback) {
+      const parts = key.split('.');
+      let val = window.I18N;
+      for (const p of parts) { val = val?.[p]; }
+      return (val !== undefined && val !== null) ? val : fallback;
+    },
   };
 })();

@@ -105,6 +105,7 @@
     "message": "계산기 작동에 필요한 필수 쿠키와 사이트 개선을 위한 선택적 분석 쿠키를 사용합니다.",
     "essential_only": "필수만",
     "accept_all": "모두 허용",
+    "reject_all": "모두 거부",
     "customize": "맞춤 설정"
   },
   "footer": {

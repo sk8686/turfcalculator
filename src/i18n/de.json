@@ -105,6 +105,7 @@
     "message": "Wir verwenden essenzielle Cookies, damit unsere Rechner funktionieren, und optionale Analyse-Cookies, um die Seite zu verbessern.",
     "essential_only": "Nur Essenzielle",
     "accept_all": "Alle Akzeptieren",
+    "reject_all": "Alle Ablehnen",
     "customize": "Anpassen"
   },
   "footer": {

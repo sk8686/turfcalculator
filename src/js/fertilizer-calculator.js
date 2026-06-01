@@ -9,13 +9,6 @@ const FertilizerCalculator = (() => {
 
   let currentType = 'maintenance';
 
-  function t(key, fallback) {
-    const parts = key.split('.');
-    let val = window.I18N;
-    for (const p of parts) { val = val?.[p]; }
-    return (val !== undefined && val !== null) ? val : fallback;
-  }
-
   function calculate(area) {
     if (!area || area <= 0 || !Number.isFinite(area)) {
       return { productLbs: 0, bags15: 0, bags30: 0, npk: '', nRate: 0 };
@@ -30,9 +23,9 @@ const FertilizerCalculator = (() => {
 
   function getTimingAdvice() {
     switch (currentType) {
-      case 'starter': return t('fertilizer_calculator.timing_starter', 'Apply when establishing new grass or overseeding. Best in early spring or fall.');
-      case 'winterizer': return t('fertilizer_calculator.timing_winter', 'Apply in late fall (October–November) before first freeze to prepare roots for winter.');
-      default: return t('fertilizer_calculator.timing_maintenance', 'Apply during active growing season. Cool-season: spring & fall. Warm-season: late spring through summer.');
+      case 'starter': return TurfApp.t('fertilizer_calculator.timing_starter', 'Apply when establishing new grass or overseeding. Best in early spring or fall.');
+      case 'winterizer': return TurfApp.t('fertilizer_calculator.timing_winter', 'Apply in late fall (October–November) before first freeze to prepare roots for winter.');
+      default: return TurfApp.t('fertilizer_calculator.timing_maintenance', 'Apply during active growing season. Cool-season: spring & fall. Warm-season: late spring through summer.');
     }
   }
 
@@ -46,19 +39,19 @@ const FertilizerCalculator = (() => {
     const fmt = (v) => TurfApp.formatNumber(v);
     container.innerHTML = `
       <div class="result-card">
-        <div class="result-label">${t('fertilizer_calculator.results_fertilizer_needed', 'Fertilizer Needed')} (${result.npk})</div>
-        <div class="result-value">${fmt(result.productLbs)} ${t('common.lbs', 'lbs')}</div>
+        <div class="result-label">${TurfApp.t('fertilizer_calculator.results_fertilizer_needed', 'Fertilizer Needed')} (${result.npk})</div>
+        <div class="result-value">${fmt(result.productLbs)} ${TurfApp.t('common.lbs', 'lbs')}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('fert_calc.bags_15lb', '15 lb Bags')}</div>
+        <div class="result-label">${TurfApp.t('fert_calc.bags_15lb', '15 lb Bags')}</div>
         <div class="result-value">${fmt(result.bags15, { maximumFractionDigits: 0 })}</div>
       </div>
       <div class="result-card">
-        <div class="result-label">${t('fert_calc.bags_30lb', '30 lb Bags')}</div>
+        <div class="result-label">${TurfApp.t('fert_calc.bags_30lb', '30 lb Bags')}</div>
         <div class="result-value">${fmt(result.bags30, { maximumFractionDigits: 0 })}</div>
       </div>
       <div class="result-card result-card-info">
-        <div class="result-label">${t('fertilizer_calculator.results_when_to_apply', 'When to Apply')}</div>
+        <div class="result-label">${TurfApp.t('fertilizer_calculator.results_when_to_apply', 'When to Apply')}</div>
         <div class="result-value">${getTimingAdvice()}</div>
       </div>
     `;
