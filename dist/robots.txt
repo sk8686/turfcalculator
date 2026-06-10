@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://turfonlinecalculator.com/sitemap.xml
